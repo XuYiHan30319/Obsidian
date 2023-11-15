@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a9c7af93b8f3a8c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flask/FLaskStart.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
       {
         "id": "5243bee5398ef9e2",
         "type": "tabs",
-        "dimension": 39.08571428571429,
+        "dimension": 53.66459627329192,
         "children": [
           {
             "id": "667fde852b0b05a4",
@@ -143,13 +130,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cd2b36d294ef5a8f",
         "type": "tabs",
-        "dimension": 60.91428571428572,
+        "dimension": 46.33540372670807,
         "children": [
           {
             "id": "4932faca50847c4f",
@@ -157,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flask/FLaskStart.md"
+                "file": "深度学习/贝叶斯分类.md"
               }
             }
           },
@@ -167,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flask/FLaskStart.md",
+                "file": "深度学习/贝叶斯分类.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flask/FLaskStart.md",
+                "file": "深度学习/贝叶斯分类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,8 +206,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a9c7af93b8f3a8c7",
+  "active": "a74c6cde8b075688",
   "lastOpenFiles": [
+    "Flask/FLaskStart.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2023-11-15 13.53.13.excalidraw.md",
     "深度学习/贝叶斯分类.md",
@@ -235,7 +222,6 @@
     "深度学习/储物袋/Pasted image 20231030142129.png",
     "大三上学期/c++/4.md",
     "大三上学期/c++/第一课.md",
-    "Flask/FLaskStart.md",
     "大三上学期/OS/Untitled.md",
     "大三上学期/c++/第二节.md",
     "深度学习/Mlp.md",

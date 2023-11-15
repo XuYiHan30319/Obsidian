@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "贝叶斯分类",
+      "path": "深度学习/贝叶斯分类.md"
+    },
+    {
       "basename": "FLaskStart",
       "path": "Flask/FLaskStart.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Drawing 2023-11-15 13.53.13.excalidraw",
       "path": "Excalidraw/Drawing 2023-11-15 13.53.13.excalidraw.md"
-    },
-    {
-      "basename": "贝叶斯分类",
-      "path": "深度学习/贝叶斯分类.md"
     },
     {
       "basename": "4",
