@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:科目",
+      "color": {
+        "a": 1,
+        "rgb": 9264342
+      }
+    },
+    {
+      "query": "tag:学期",
+      "color": {
+        "a": 1,
+        "rgb": 16056320
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.04945475260417,
+  "lineSizeMultiplier": 2.10039469401042,
+  "collapse-forces": false,
+  "centerStrength": 0.510050455729167,
+  "repelStrength": 9.9462890625,
+  "linkStrength": 1,
+  "linkDistance": 114,
+  "scale": 0.3430236501067468,
+  "close": true
+}

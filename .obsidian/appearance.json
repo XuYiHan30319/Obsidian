@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "cssTheme": "AnuPpuccin",
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "yaozhuwa@CSS",
+    "AnuExtendTheme",
+    "网格背景",
+    "预览模式优化-空白行-行间距"
+  ],
+  "translucency": true
+}

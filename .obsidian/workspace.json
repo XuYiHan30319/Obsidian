@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "fc21b6d19e47a381",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a691e6c96852b16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a74c6cde8b075688",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "深度学习/贝叶斯分类.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9c7af93b8f3a8c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flask/FLaskStart.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28cc0d18fc17aebf",
+    "type": "split",
+    "children": [
+      {
+        "id": "719be34e07d0f26b",
+        "type": "tabs",
+        "dimension": 64.61377870563675,
+        "children": [
+          {
+            "id": "ea3eeb1d7999b631",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "851af9a84e1d1b7a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f68284d99c813e79",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "1811095652d81783",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b8c7ef0831881c43",
+        "type": "tabs",
+        "dimension": 35.38622129436326,
+        "children": [
+          {
+            "id": "0ce83785c9a7605f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ebf054f9faf0ad81",
+    "type": "split",
+    "children": [
+      {
+        "id": "5243bee5398ef9e2",
+        "type": "tabs",
+        "dimension": 39.08571428571429,
+        "children": [
+          {
+            "id": "667fde852b0b05a4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "282a7959f988e843",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8bd6ceb88034e110",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "cd2b36d294ef5a8f",
+        "type": "tabs",
+        "dimension": 60.91428571428572,
+        "children": [
+          {
+            "id": "4932faca50847c4f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Flask/FLaskStart.md"
+              }
+            }
+          },
+          {
+            "id": "17cccd4351b7373e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Flask/FLaskStart.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03cb6b5188c2efa4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d0f5a3cc40d6e71b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Flask/FLaskStart.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "a9c7af93b8f3a8c7",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2023-11-15 13.53.13.excalidraw.md",
+    "深度学习/贝叶斯分类.md",
+    "深度学习/储物袋/Pasted image 20231030145554.png",
+    "深度学习/储物袋/Pasted image 20231030143530.png",
+    "深度学习/储物袋/Pasted image 20231030143420.png",
+    "深度学习/储物袋/Pasted image 20231030143418.png",
+    "深度学习/储物袋/Pasted image 20231030143111.png",
+    "深度学习/储物袋/Pasted image 20231030142459.png",
+    "深度学习/储物袋/Pasted image 20231030142333.png",
+    "深度学习/储物袋/Pasted image 20231030142129.png",
+    "大三上学期/c++/4.md",
+    "大三上学期/c++/第一课.md",
+    "Flask/FLaskStart.md",
+    "大三上学期/OS/Untitled.md",
+    "大三上学期/c++/第二节.md",
+    "深度学习/Mlp.md",
+    "深度学习/半监督学习.md",
+    "Excalidraw/Drawing 2023-09-17 13.34.33.excalidraw.md",
+    "Excalidraw",
+    "深度学习/储物袋/Pasted image 20230917120318.png",
+    "深度学习/储物袋/Pasted image 20230917105655.png",
+    "RUST/GuessGame.md",
+    "RUST/cargo管理工具.md",
+    "大三上学期/OS",
+    "大三上学期",
+    "c++/cmake概述.md",
+    "Flask",
+    "深度学习/RNN.md",
+    "RUST/HelloWorld.md",
+    "算法导论/分治策略.md",
+    "RUST",
+    "算法导论/算法基础.md",
+    "算法导论/概率分析和随机算法.md",
+    "HTML/入门.md",
+    "深度学习/储物袋",
+    "大二下学期/大数据概论/数据管理.md",
+    "深度学习",
+    "大二下学期/大数据概论/大数据获取和感知.md",
+    "大二下学期/大数据概论/大数据基本概念.md",
+    "大二下学期/大数据概论/储物袋",
+    "大二下学期/大数据概论/绪论.md",
+    "党课考试/中国共产党的性质,最高理想和根本宗旨.md",
+    "大二下学期/大数据概论/储物袋/常用的数据挖掘算法.md",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "党课考试/储物袋",
+    "党课考试",
+    "未命名 3.canvas"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "SiOsano",
+      "SiOsu",
+      "SiRust",
+      "SiHtml5",
+      "SiAirbnb",
+      "SiCplusplus",
+      "SiQt",
+      "FasNetworkWired",
+      "FasDatabase",
+      "FasCodeFork"
+    ],
+    "recentlyUsedIconsSize": 10,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "emojiStyle": "none",
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false
+  },
+  "大二上学期/大学物理": "😀",
+  "LeetCode": "SiLeetcode",
+  "大二上学期/数据结构": "FasCodeFork",
+  "大二上学期/数据库": "FasDatabase",
+  "大二上学期/计算机网络原理": "FasNetworkWired",
+  "大二下学期/数据库": "FasDatabase",
+  "大二下学期/人工智能导论": "SiAirbnb",
+  "HTML": "SiHtml5",
+  "大三上学期/c++": "SiCplusplus",
+  "大三上学期/OS": "SiOsano"
+}
