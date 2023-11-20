@@ -1,6 +1,6 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "./储物袋",
+  "attachmentFolderPath": "./attachments",
   "livePreview": true,
   "showLineNumber": false,
   "spellcheck": false,

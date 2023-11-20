@@ -5,6 +5,7 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiGo",
       "SiOsano",
       "SiOsu",
       "SiRust",
@@ -13,8 +14,7 @@
       "SiCplusplus",
       "SiQt",
       "FasNetworkWired",
-      "FasDatabase",
-      "FasCodeFork"
+      "FasDatabase"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -31,13 +31,12 @@
     "iconsBackgroundCheckEnabled": false
   },
   "大二上学期/大学物理": "😀",
-  "LeetCode": "SiLeetcode",
   "大二上学期/数据结构": "FasCodeFork",
   "大二上学期/数据库": "FasDatabase",
   "大二上学期/计算机网络原理": "FasNetworkWired",
   "大二下学期/数据库": "FasDatabase",
   "大二下学期/人工智能导论": "SiAirbnb",
-  "HTML": "SiHtml5",
   "大三上学期/c++": "SiCplusplus",
-  "大三上学期/OS": "SiOsano"
+  "大三上学期/OS": "SiOsano",
+  "大三上学期/实训": "SiGo"
 }
