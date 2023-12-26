@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ebf054f9faf0ad81",
@@ -191,11 +192,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 276,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -203,11 +204,14 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian42-brat:BRAT": false
     }
   },
   "active": "2a6e4624cbf735af",
   "lastOpenFiles": [
+    "大三上学期/OS/attachments/Pasted image 20231226232900.png",
+    "大三上学期/OS/attachments/Pasted image 20231226232730.png",
     "大三上学期/OS/attachments/Pasted image 20231226231016.png",
     "大三上学期/OS/attachments",
     "大三上学期/c++/虚函数.md",
@@ -232,8 +236,6 @@
     "深度学习/储物袋/Pasted image 20231030143420.png",
     "深度学习/储物袋/Pasted image 20231030143418.png",
     "深度学习/储物袋/Pasted image 20231030143111.png",
-    "深度学习/储物袋/Pasted image 20231030142459.png",
-    "深度学习/储物袋/Pasted image 20231030142333.png",
     "大三上学期/c++/4.md",
     "大三上学期/OS/进程.md",
     "深度学习/Mlp.md",
