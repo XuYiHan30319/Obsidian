@@ -28,7 +28,8 @@
     "iconInTabsEnabled": false,
     "iconInTitleEnabled": false,
     "iconInFrontmatterEnabled": false,
-    "iconsBackgroundCheckEnabled": false
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
   },
   "大二上学期/大学物理": "😀",
   "大二上学期/数据结构": "FasCodeFork",
