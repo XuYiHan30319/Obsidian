@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上学期/OS/同步与死锁.md",
+                "file": "大三上学期/OS/进程.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大三上学期/OS/同步与死锁.md"
+                "file": "大三上学期/OS/进程.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大三上学期/OS/同步与死锁.md",
+                "file": "大三上学期/OS/进程.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大三上学期/OS/同步与死锁.md",
+                "file": "大三上学期/OS/进程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
