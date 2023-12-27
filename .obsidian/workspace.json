@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上学期/OS/进程.md",
+                "file": "大三上学期/OS/同步与死锁.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大三上学期/OS/进程.md"
+                "file": "大三上学期/OS/同步与死锁.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大三上学期/OS/进程.md",
+                "file": "大三上学期/OS/同步与死锁.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大三上学期/OS/进程.md",
+                "file": "大三上学期/OS/同步与死锁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,6 +210,9 @@
   },
   "active": "2a6e4624cbf735af",
   "lastOpenFiles": [
+    "大三上学期/OS/进程.md",
+    "大三上学期/OS/同步与死锁.md",
+    "大三上学期/OS/attachments/Pasted image 20231227091240.png",
     "大三上学期/OS/attachments/Pasted image 20231227090946.png",
     "大三上学期/OS/attachments/Pasted image 20231227090921.png",
     "大三上学期/OS/attachments/Pasted image 20231227090839.png",
@@ -219,8 +222,6 @@
     "大三上学期/OS/attachments/Pasted image 20231226235747.png",
     "大三上学期/OS/attachments/Pasted image 20231226235417.png",
     "大三上学期/OS/attachments/Pasted image 20231226233523.png",
-    "大三上学期/OS/attachments/Pasted image 20231226232900.png",
-    "大三上学期/OS/attachments/Pasted image 20231226232730.png",
     "大三上学期/OS/attachments",
     "大三上学期/c++/虚函数.md",
     "大三上学期/c++/第一课.md",
@@ -237,7 +238,6 @@
     "Untitled.canvas",
     "Excalidraw/Drawing 2023-11-15 13.53.13.excalidraw.md",
     "大三上学期/c++/4.md",
-    "大三上学期/OS/进程.md",
     "深度学习/Mlp.md",
     "Excalidraw/Drawing 2023-09-17 13.34.33.excalidraw.md",
     "RUST/GuessGame.md",
