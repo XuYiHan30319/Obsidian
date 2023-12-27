@@ -11,8 +11,12 @@
             "id": "a2e591abec6c9103",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "大三上学期/OS/同步与死锁.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -140,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "大三上学期/OS/同步与死锁.md"
+              }
             }
           },
           {
@@ -149,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "大三上学期/OS/同步与死锁.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "大三上学期/OS/同步与死锁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
