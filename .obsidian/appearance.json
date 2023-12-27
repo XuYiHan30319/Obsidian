@@ -9,5 +9,8 @@
     "AnuExtendTheme",
     "预览模式优化-空白行-行间距"
   ],
-  "translucency": true
+  "translucency": true,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "JetBrains Mono"
 }
