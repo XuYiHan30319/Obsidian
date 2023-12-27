@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上学期/运维/组织影响、组织过程资产和事业环境因素.md",
+                "file": "大三上学期/运维/项目管理知识体系.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大三上学期/运维/组织影响、组织过程资产和事业环境因素.md"
+                "file": "大三上学期/运维/项目管理知识体系.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大三上学期/运维/组织影响、组织过程资产和事业环境因素.md",
+                "file": "大三上学期/运维/项目管理知识体系.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大三上学期/运维/组织影响、组织过程资产和事业环境因素.md",
+                "file": "大三上学期/运维/项目管理知识体系.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,8 +210,13 @@
   },
   "active": "a2e591abec6c9103",
   "lastOpenFiles": [
-    "大三上学期/运维/项目管理概念.md",
     "大三上学期/运维/组织影响、组织过程资产和事业环境因素.md",
+    "大三上学期/运维/项目管理知识体系.md",
+    "大三上学期/运维/attachments/Pasted image 20231227235924.png",
+    "大三上学期/运维/attachments/Pasted image 20231227235716.png",
+    "大三上学期/运维/attachments/Pasted image 20231227235620.png",
+    "大三上学期/运维/attachments/Pasted image 20231227235541.png",
+    "大三上学期/运维/项目管理概念.md",
     "大三上学期/运维/attachments/Pasted image 20231227234937.png",
     "大三上学期/运维/attachments/Pasted image 20231227234624.png",
     "大三上学期/运维/attachments",
@@ -222,10 +227,6 @@
     "大三上学期/OS/进程.md",
     "大三上学期/OS/attachments/Pasted image 20231227094843.png",
     "大三上学期/OS/attachments/Pasted image 20231227094818.png",
-    "大三上学期/OS/attachments/Pasted image 20231227092626.png",
-    "大三上学期/OS/attachments/Pasted image 20231227091240.png",
-    "大三上学期/OS/attachments/Pasted image 20231227090946.png",
-    "大三上学期/OS/attachments/Pasted image 20231227090921.png",
     "大三上学期/OS/attachments",
     "大三上学期/c++/虚函数.md",
     "大三上学期/c++/第一课.md",
@@ -256,7 +257,6 @@
     "算法导论/算法基础.md",
     "算法导论/概率分析和随机算法.md",
     "HTML/入门.md",
-    "大二下学期/大数据概论/数据管理.md",
     "未命名 2.canvas",
     "未命名 1.canvas",
     "未命名.canvas",
