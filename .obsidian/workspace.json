@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上学期/运维/5项目范围管理.md",
+                "file": "大三上学期/运维/项目时间管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大三上学期/运维/5项目范围管理.md"
+                "file": "大三上学期/运维/项目时间管理.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大三上学期/运维/5项目范围管理.md",
+                "file": "大三上学期/运维/项目时间管理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大三上学期/运维/5项目范围管理.md",
+                "file": "大三上学期/运维/项目时间管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,21 +212,22 @@
   },
   "active": "c2a84b4bc77e16b5",
   "lastOpenFiles": [
+    "大三上学期/运维/attachments/Pasted image 20231228213212.png",
+    "大三上学期/运维/5项目范围管理.md",
+    "大三上学期/运维/项目时间管理.md",
+    "大三上学期/运维/4项目整合管理.md",
     "大三上学期/运维/attachments/Pasted image 20231228161907.png",
     "大三上学期/运维/attachments/Pasted image 20231228161847.png",
     "大三上学期/运维/attachments/Pasted image 20231228161139.png",
     "大三上学期/运维/attachments/Pasted image 20231228161116.png",
     "大三上学期/运维/attachments/Pasted image 20231228161040.png",
     "大三上学期/运维/attachments/Pasted image 20231228155828.png",
-    "大三上学期/运维/4项目整合管理.md",
-    "大三上学期/运维/5项目范围管理.md",
     "大三上学期/运维/2组织影响、组织过程资产和事业环境因素.md",
     "大三上学期/运维/3项目管理知识体系.md",
     "大三上学期/运维/attachments/Pasted image 20231228093408.png",
     "大三上学期/运维/attachments/Pasted image 20231228093005.png",
     "大三上学期/运维/attachments/Pasted image 20231228092328.png",
     "大三上学期/运维/attachments/Pasted image 20231228091730.png",
-    "大三上学期/运维/attachments/Pasted image 20231228091119.png",
     "大三上学期/项目管理概念.md",
     "大三上学期/运维/attachments",
     "大三上学期/OS/同步与死锁.md",
@@ -258,7 +259,6 @@
     "Flask",
     "深度学习/RNN.md",
     "RUST/HelloWorld.md",
-    "算法导论/分治策略.md",
     "未命名 2.canvas",
     "未命名 1.canvas",
     "未命名.canvas",
