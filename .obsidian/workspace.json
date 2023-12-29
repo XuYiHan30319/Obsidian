@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上学期/运维/6项目时间管理.md",
+                "file": "大三上学期/运维/7项目成本管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大三上学期/运维/6项目时间管理.md"
+                "file": "大三上学期/运维/7项目成本管理.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大三上学期/运维/6项目时间管理.md",
+                "file": "大三上学期/运维/7项目成本管理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大三上学期/运维/6项目时间管理.md",
+                "file": "大三上学期/运维/7项目成本管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,6 +202,10 @@
   },
   "active": "c2a84b4bc77e16b5",
   "lastOpenFiles": [
+    "大三上学期/运维/6项目时间管理.md",
+    "大三上学期/运维/5项目范围管理.md",
+    "大三上学期/运维/7项目成本管理.md",
+    "大三上学期/运维/attachments/Pasted image 20231229090631.png",
     "大三上学期/运维/attachments/Pasted image 20231228221046.png",
     "大三上学期/运维/attachments/Pasted image 20231228221039.png",
     "大三上学期/运维/attachments/Pasted image 20231228221035.png",
@@ -210,12 +214,8 @@
     "大三上学期/运维/attachments/Pasted image 20231228220150.png",
     "大三上学期/运维/attachments/Pasted image 20231228220149.png",
     "大三上学期/运维/attachments/Pasted image 20231228215922.png",
-    "大三上学期/运维/6项目时间管理.md",
     "大三上学期/运维/attachments/Pasted image 20231228215345.png",
-    "大三上学期/运维/5项目范围管理.md",
     "大三上学期/运维/4项目整合管理.md",
-    "大三上学期/运维/attachments/Pasted image 20231228214050.png",
-    "大三上学期/运维/attachments/Pasted image 20231228214039.png",
     "大三上学期/运维/2组织影响、组织过程资产和事业环境因素.md",
     "大三上学期/运维/3项目管理知识体系.md",
     "大三上学期/项目管理概念.md",
@@ -248,7 +248,6 @@
     "c++/cmake概述.md",
     "Flask",
     "深度学习/RNN.md",
-    "RUST/HelloWorld.md",
     "未命名 2.canvas",
     "未命名 1.canvas",
     "未命名.canvas",
