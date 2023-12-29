@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240,
-    "collapsed": true
+    "width": 240
   },
   "right": {
     "id": "ebf054f9faf0ad81",
@@ -186,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276,
-    "collapsed": true
+    "width": 276
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,6 +202,11 @@
   },
   "active": "c2a84b4bc77e16b5",
   "lastOpenFiles": [
+    "大三上学期/运维/attachments/Pasted image 20231228221046.png",
+    "大三上学期/运维/attachments/Pasted image 20231228221039.png",
+    "大三上学期/运维/attachments/Pasted image 20231228221035.png",
+    "大三上学期/运维/attachments/Pasted image 20231228220705.png",
+    "大三上学期/运维/attachments/Pasted image 20231228220630.png",
     "大三上学期/运维/attachments/Pasted image 20231228220150.png",
     "大三上学期/运维/attachments/Pasted image 20231228220149.png",
     "大三上学期/运维/attachments/Pasted image 20231228215922.png",
@@ -213,11 +216,6 @@
     "大三上学期/运维/4项目整合管理.md",
     "大三上学期/运维/attachments/Pasted image 20231228214050.png",
     "大三上学期/运维/attachments/Pasted image 20231228214039.png",
-    "大三上学期/运维/attachments/Pasted image 20231228213212.png",
-    "大三上学期/运维/attachments/Pasted image 20231228161907.png",
-    "大三上学期/运维/attachments/Pasted image 20231228161847.png",
-    "大三上学期/运维/attachments/Pasted image 20231228161139.png",
-    "大三上学期/运维/attachments/Pasted image 20231228161116.png",
     "大三上学期/运维/2组织影响、组织过程资产和事业环境因素.md",
     "大三上学期/运维/3项目管理知识体系.md",
     "大三上学期/项目管理概念.md",
