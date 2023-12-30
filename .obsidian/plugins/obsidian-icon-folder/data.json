@@ -5,6 +5,7 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasManatSign",
       "SiGo",
       "SiOsano",
       "SiOsu",
@@ -13,8 +14,7 @@
       "SiAirbnb",
       "SiCplusplus",
       "SiQt",
-      "FasNetworkWired",
-      "FasDatabase"
+      "FasNetworkWired"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -37,7 +37,8 @@
   "大二上学期/计算机网络原理": "FasNetworkWired",
   "大二下学期/数据库": "FasDatabase",
   "大二下学期/人工智能导论": "SiAirbnb",
-  "大三上学期/c++": "SiCplusplus",
   "大三上学期/OS": "SiOsano",
-  "大三上学期/实训": "SiGo"
+  "大三上学期/实训": "SiGo",
+  "大三上学期/c++": "SiCplusplus",
+  "大三上学期/运维": "FasManatSign"
 }
