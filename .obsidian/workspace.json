@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8d53375c36637243",
+        "id": "67cd9ccaa268cc73",
         "type": "tabs",
         "children": [
           {
-            "id": "c2a84b4bc77e16b5",
+            "id": "5a5cdc8ffcd592bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大三上学期/运维/7项目成本管理.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -137,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "大三上学期/运维/7项目成本管理.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大三上学期/运维/7项目成本管理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大三上学期/运维/7项目成本管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,22 +194,21 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c2a84b4bc77e16b5",
+  "active": "5a5cdc8ffcd592bc",
   "lastOpenFiles": [
+    "大三上学期/运维/7项目成本管理.md",
+    "大三上学期/运维/attachments/Pasted image 20231229095747.png",
+    "大三上学期/运维/attachments/Pasted image 20231229095738.png",
+    "大三上学期/运维/attachments/Pasted image 20231229095506.png",
+    "大三上学期/运维/attachments/Pasted image 20231229095455.png",
+    "大三上学期/运维/attachments/Pasted image 20231229095346.png",
+    "大三上学期/运维/attachments/Pasted image 20231229094832.png",
     "大三上学期/运维/attachments/Pasted image 20231229093948.png",
     "大三上学期/运维/6项目时间管理.md",
     "大三上学期/运维/5项目范围管理.md",
-    "大三上学期/运维/7项目成本管理.md",
     "大三上学期/运维/attachments/Pasted image 20231229093257.png",
     "大三上学期/运维/attachments/Pasted image 20231229090631.png",
     "大三上学期/运维/attachments/Pasted image 20231228221046.png",
-    "大三上学期/运维/attachments/Pasted image 20231228221039.png",
-    "大三上学期/运维/attachments/Pasted image 20231228221035.png",
-    "大三上学期/运维/attachments/Pasted image 20231228220705.png",
-    "大三上学期/运维/attachments/Pasted image 20231228220630.png",
-    "大三上学期/运维/attachments/Pasted image 20231228220150.png",
-    "大三上学期/运维/attachments/Pasted image 20231228220149.png",
-    "大三上学期/运维/attachments/Pasted image 20231228215922.png",
     "大三上学期/运维/4项目整合管理.md",
     "大三上学期/运维/2组织影响、组织过程资产和事业环境因素.md",
     "大三上学期/运维/3项目管理知识体系.md",
