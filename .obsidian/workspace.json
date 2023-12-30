@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上学期/c++/第一章节.md",
+                "file": "大三上学期/运维/4项目整合管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "right": {
     "id": "ebf054f9faf0ad81",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大三上学期/c++/第一章节.md"
+                "file": "大三上学期/运维/4项目整合管理.md"
               }
             }
           },
@@ -148,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大三上学期/c++/第一章节.md",
+                "file": "大三上学期/运维/4项目整合管理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大三上学期/c++/第一章节.md",
+                "file": "大三上学期/运维/4项目整合管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,8 +203,8 @@
   },
   "active": "5a5cdc8ffcd592bc",
   "lastOpenFiles": [
-    "大三上学期/运维/9项目资源管理.md",
     "大三上学期/c++/第一章节.md",
+    "大三上学期/运维/9项目资源管理.md",
     "大三上学期/c++",
     "大三上学期/未命名.md",
     "大三上学期/项目管理概念.md",
