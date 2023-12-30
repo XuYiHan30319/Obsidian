@@ -11,8 +11,12 @@
             "id": "5a5cdc8ffcd592bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "大三上学期/运维/8项目质量管理.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240,
+    "width": 243.5,
     "collapsed": true
   },
   "right": {
@@ -133,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "大三上学期/运维/8项目质量管理.md"
+              }
             }
           },
           {
@@ -142,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "大三上学期/运维/8项目质量管理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "大三上学期/运维/8项目质量管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +204,9 @@
   },
   "active": "5a5cdc8ffcd592bc",
   "lastOpenFiles": [
+    "大三上学期/运维/attachments/Pasted image 20231230094118.png",
     "大三上学期/运维/7项目成本管理.md",
+    "大三上学期/运维/8项目质量管理.md",
     "大三上学期/运维/attachments/Pasted image 20231229095747.png",
     "大三上学期/运维/attachments/Pasted image 20231229095738.png",
     "大三上学期/运维/attachments/Pasted image 20231229095506.png",
@@ -241,7 +251,6 @@
     "大三上学期",
     "c++/cmake概述.md",
     "Flask",
-    "深度学习/RNN.md",
     "未命名 2.canvas",
     "未命名 1.canvas",
     "未命名.canvas",
