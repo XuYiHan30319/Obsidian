@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上学期/运维/9项目资源管理.md",
+                "file": "大三上学期/运维/10项目干系人管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "right": {
     "id": "ebf054f9faf0ad81",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大三上学期/运维/9项目资源管理.md"
+                "file": "大三上学期/运维/10项目干系人管理.md"
               }
             }
           },
@@ -147,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大三上学期/运维/9项目资源管理.md",
+                "file": "大三上学期/运维/10项目干系人管理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大三上学期/运维/9项目资源管理.md",
+                "file": "大三上学期/运维/10项目干系人管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,10 +204,12 @@
   },
   "active": "5a5cdc8ffcd592bc",
   "lastOpenFiles": [
+    "大三上学期/运维/attachments/Pasted image 20231231090132.png",
+    "大三上学期/运维/9项目资源管理.md",
+    "大三上学期/运维/10项目干系人管理.md",
     "大三上学期/运维/8项目质量管理.md",
     "大三上学期/运维/4项目整合管理.md",
     "大三上学期/c++/第一章节.md",
-    "大三上学期/运维/9项目资源管理.md",
     "大三上学期/c++",
     "大三上学期/未命名.md",
     "大三上学期/项目管理概念.md",
@@ -246,8 +249,6 @@
     "Excalidraw/Drawing 2023-11-15 13.53.13.excalidraw.md",
     "大三上学期/c++/4.md",
     "深度学习/Mlp.md",
-    "Excalidraw/Drawing 2023-09-17 13.34.33.excalidraw.md",
-    "RUST/GuessGame.md",
     "大三上学期/OS",
     "大三上学期",
     "未命名 2.canvas",
