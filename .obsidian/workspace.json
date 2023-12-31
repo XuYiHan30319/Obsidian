@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2b7e3640b218052d",
+        "id": "3f51697f23314eac",
         "type": "tabs",
         "children": [
           {
-            "id": "79536ae08d6f47fb",
+            "id": "6bc3a2a11689ffea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上学期/运维/11项目沟通管理.md",
+                "file": "大三上学期/运维/12项目风险管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大三上学期/运维/11项目沟通管理.md"
+                "file": "大三上学期/运维/12项目风险管理.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大三上学期/运维/11项目沟通管理.md",
+                "file": "大三上学期/运维/12项目风险管理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大三上学期/运维/11项目沟通管理.md",
+                "file": "大三上学期/运维/12项目风险管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,13 +202,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "79536ae08d6f47fb",
+  "active": "6bc3a2a11689ffea",
   "lastOpenFiles": [
+    "大三上学期/运维/12项目风险管理.md",
+    "大三上学期/运维/11项目沟通管理.md",
+    "大三上学期/运维/attachments/Pasted image 20231231100800.png",
     "大三上学期/运维/attachments/Pasted image 20231231100229.png",
     "大三上学期/运维/10项目干系人管理.md",
     "大三上学期/运维/9项目资源管理.md",
     "大三上学期/运维/8项目质量管理.md",
-    "大三上学期/运维/11项目沟通管理.md",
     "大三上学期/运维/attachments/Pasted image 20231231100011.png",
     "大三上学期/运维/attachments/Pasted image 20231231094112.png",
     "大三上学期/运维/attachments/Pasted image 20231231093936.png",
@@ -223,8 +225,6 @@
     "大三上学期/项目管理概念.md",
     "大三上学期/c++/第二节.md",
     "大三上学期/运维/attachments/Pasted image 20231230105810.png",
-    "大三上学期/运维/attachments/Pasted image 20231230105604.png",
-    "大三上学期/运维/attachments/Pasted image 20231230105533.png",
     "大三上学期/运维/7项目成本管理.md",
     "大三上学期/运维/6项目时间管理.md",
     "大三上学期/运维/5项目范围管理.md",

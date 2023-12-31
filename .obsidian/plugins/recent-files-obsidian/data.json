@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "12项目风险管理",
+      "path": "大三上学期/运维/12项目风险管理.md"
+    },
+    {
       "basename": "11项目沟通管理",
       "path": "大三上学期/运维/11项目沟通管理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "标准化",
       "path": "大二下学期/数据库/标准化.md"
-    },
-    {
-      "basename": "PL.SQL",
-      "path": "大二下学期/数据库/PL.SQL.md"
     }
   ],
   "omittedPaths": [],
