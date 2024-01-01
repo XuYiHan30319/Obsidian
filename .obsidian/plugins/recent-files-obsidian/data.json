@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "adventures in classes",
+      "path": "大三上学期/c++/adventures in classes.md"
+    },
+    {
+      "basename": "应用层",
+      "path": "大二上学期/计算机网络原理/应用层.md"
+    },
+    {
+      "basename": "计算机网络和因特网",
+      "path": "大二上学期/计算机网络原理/计算机网络和因特网.md"
+    },
+    {
       "basename": "8操作符重载",
       "path": "大三上学期/c++/8操作符重载.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "并发控制2",
       "path": "大二上学期/数据库/并发控制2.md"
-    },
-    {
-      "basename": "sql语句",
-      "path": "大二下学期/数据库/sql语句.md"
-    },
-    {
-      "basename": "NoSQL",
-      "path": "大二下学期/数据库/NoSQL.md"
-    },
-    {
-      "basename": "ER图",
-      "path": "大二下学期/数据库/ER图.md"
     }
   ],
   "omittedPaths": [],
