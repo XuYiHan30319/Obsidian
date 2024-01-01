@@ -1,3 +1,4 @@
+# static
 ```c++
 class Account{
 	static dobule rate(){return rate;}//static函数只能使用staic变量,没this指针
@@ -15,6 +16,24 @@ public:
 
 // 定义和初始化静态类成员
 int MyClass::myStaticInt = 0;
+```
+# 友元
+一个类/类的方法/方法可以访问另一个类的private值
+```c++
+class A{
+	friend void show(A&);//在哪放都可以
+}
+
+class Date;
+class clock{
+public:
+	void display(Date&);
+}
+
+class Date{
+public:
+	friend void clock::display(Date&);
+}
 ```
 
 
