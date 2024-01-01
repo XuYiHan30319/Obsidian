@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6f7c2ce1e14f5822",
+        "id": "008bfbbad1bc7814",
         "type": "tabs",
         "children": [
           {
-            "id": "e4633acc8ea7052f",
+            "id": "f423f053c65ce2e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上学期/运维/13项目采购管理.md",
+                "file": "大三上学期/运维/14合同管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大三上学期/运维/13项目采购管理.md"
+                "file": "大三上学期/运维/14合同管理.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大三上学期/运维/13项目采购管理.md",
+                "file": "大三上学期/运维/14合同管理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大三上学期/运维/13项目采购管理.md",
+                "file": "大三上学期/运维/14合同管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,11 +202,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e4633acc8ea7052f",
+  "active": "f423f053c65ce2e8",
   "lastOpenFiles": [
+    "大三上学期/运维/attachments/Pasted image 20240101110204.png",
+    "大三上学期/运维/attachments/Pasted image 20240101110157.png",
+    "大三上学期/运维/attachments/Pasted image 20240101110025.png",
+    "大三上学期/运维/attachments/Pasted image 20240101105850.png",
+    "大三上学期/运维/attachments/Pasted image 20240101105835.png",
+    "大三上学期/运维/14合同管理.md",
+    "大三上学期/运维/13项目采购管理.md",
     "大三上学期/运维/attachments/Pasted image 20240101104831.png",
     "大三上学期/c++/5高级函数.md",
-    "大三上学期/运维/13项目采购管理.md",
     "大三上学期/c++/第一章节.md",
     "大三上学期/运维/12项目风险管理.md",
     "大三上学期/运维/attachments/Pasted image 20231231102002.png",
@@ -218,11 +224,6 @@
     "大三上学期/运维/8项目质量管理.md",
     "大三上学期/运维/attachments/Pasted image 20231231100011.png",
     "大三上学期/运维/attachments/Pasted image 20231231094112.png",
-    "大三上学期/运维/attachments/Pasted image 20231231093936.png",
-    "大三上学期/运维/attachments/Pasted image 20231231093342.png",
-    "大三上学期/运维/attachments/Pasted image 20231231093217.png",
-    "大三上学期/运维/attachments/Pasted image 20231231093013.png",
-    "大三上学期/运维/attachments/Pasted image 20231231090132.png",
     "大三上学期/运维/4项目整合管理.md",
     "大三上学期/c++",
     "大三上学期/未命名.md",
@@ -245,7 +246,6 @@
     "Excalidraw",
     "深度学习/半监督学习.md",
     "深度学习/attachments",
-    "Flask/FLaskStart.md",
     "大创2023/未命名",
     "大三上学期/实训",
     "Untitled.canvas",
