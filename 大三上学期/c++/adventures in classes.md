@@ -27,3 +27,16 @@ stringBad& stringBad::operator=(const stringBad&st){
 ```
 
 # 初始化列表
+```c++
+class Classx{
+private:
+	int x1;
+	//下俩在构造函数前就初始化了
+	const int x2;
+	int &x3;
+}
+
+Classx::Classx(int m1,int m2,int &m3):x2(m2),x3(m3){
+	x1 = m1;
+}
+```
