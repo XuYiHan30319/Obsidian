@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上学期/运维/14合同管理.md",
+                "file": "大三上学期/c++/6类和对象.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "right": {
     "id": "ebf054f9faf0ad81",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大三上学期/运维/14合同管理.md"
+                "file": "大三上学期/c++/6类和对象.md"
               }
             }
           },
@@ -147,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大三上学期/运维/14合同管理.md",
+                "file": "大三上学期/c++/6类和对象.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大三上学期/运维/14合同管理.md",
+                "file": "大三上学期/c++/6类和对象.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,6 +204,8 @@
   },
   "active": "f423f053c65ce2e8",
   "lastOpenFiles": [
+    "大三上学期/运维/14合同管理.md",
+    "大三上学期/c++/6类和对象.md",
     "大三上学期/运维/attachments/Pasted image 20240101110727.png",
     "大三上学期/运维/attachments/Pasted image 20240101110700.png",
     "大三上学期/运维/attachments/Pasted image 20240101110204.png",
@@ -210,7 +213,6 @@
     "大三上学期/运维/attachments/Pasted image 20240101110025.png",
     "大三上学期/运维/attachments/Pasted image 20240101105850.png",
     "大三上学期/运维/attachments/Pasted image 20240101105835.png",
-    "大三上学期/运维/14合同管理.md",
     "大三上学期/运维/13项目采购管理.md",
     "大三上学期/运维/attachments/Pasted image 20240101104831.png",
     "大三上学期/c++/5高级函数.md",
@@ -219,7 +221,6 @@
     "大三上学期/运维/attachments/Pasted image 20231231102002.png",
     "大三上学期/运维/11项目沟通管理.md",
     "大三上学期/运维/attachments/Pasted image 20231231100800.png",
-    "大三上学期/运维/attachments/Pasted image 20231231100229.png",
     "大三上学期/运维/10项目干系人管理.md",
     "大三上学期/运维/9项目资源管理.md",
     "大三上学期/运维/8项目质量管理.md",
