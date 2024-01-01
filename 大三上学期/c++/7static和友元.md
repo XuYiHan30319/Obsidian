@@ -24,7 +24,7 @@ class A{
 	friend void show(A&);//在哪放都可以
 }
 
-class Date;
+class Date;//前置声明
 class clock{
 public:
 	void display(Date&);
