@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dabd16737ad907a9",
+        "id": "d8b446ab7055554b",
         "type": "tabs",
         "children": [
           {
-            "id": "85432bb6d9b493f5",
+            "id": "7df1674cb092be41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上学期/运维/12项目风险管理.md",
+                "file": "大三上学期/运维/16敏捷项目管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大三上学期/运维/12项目风险管理.md"
+                "file": "大三上学期/运维/16敏捷项目管理.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大三上学期/运维/12项目风险管理.md",
+                "file": "大三上学期/运维/16敏捷项目管理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大三上学期/运维/12项目风险管理.md",
+                "file": "大三上学期/运维/16敏捷项目管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,8 +202,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "85432bb6d9b493f5",
+  "active": "7df1674cb092be41",
   "lastOpenFiles": [
+    "大三上学期/运维/attachments/Pasted image 20240102110310.png",
+    "大三上学期/运维/3项目管理知识体系.md",
+    "大三上学期/运维/16敏捷项目管理.md",
+    "大三上学期/运维/15 结束项目或阶段.md",
+    "大三上学期/运维/14合同管理.md",
+    "大三上学期/运维/12项目风险管理.md",
     "大三上学期/运维/attachments/Pasted image 20240102101616.png",
     "大三上学期/运维/attachments/Pasted image 20240102101543.png",
     "大三上学期/运维/attachments/Pasted image 20240102101237.png",
@@ -221,14 +227,11 @@
     "大三上学期/c++/8操作符重载.md",
     "大三上学期/c++/7static和友元.md",
     "大三上学期/c++/6类和对象.md",
-    "大三上学期/运维/14合同管理.md",
     "大三上学期/运维/attachments/Pasted image 20240101110727.png",
     "大三上学期/运维/attachments/Pasted image 20240101110700.png",
-    "大三上学期/运维/attachments/Pasted image 20240101110204.png",
     "大三上学期/运维/13项目采购管理.md",
     "大三上学期/c++/5高级函数.md",
     "大三上学期/c++/第一章节.md",
-    "大三上学期/运维/12项目风险管理.md",
     "大三上学期/运维/11项目沟通管理.md",
     "大三上学期/运维/10项目干系人管理.md",
     "大三上学期/运维/9项目资源管理.md",
@@ -239,9 +242,6 @@
     "大三上学期/项目管理概念.md",
     "大三上学期/c++/第二节.md",
     "大三上学期/运维/7项目成本管理.md",
-    "大三上学期/运维/6项目时间管理.md",
-    "大三上学期/运维/5项目范围管理.md",
-    "大三上学期/运维/2组织影响、组织过程资产和事业环境因素.md",
     "大三上学期/运维/attachments",
     "大三上学期/运维",
     "大三上学期/OS/attachments",
