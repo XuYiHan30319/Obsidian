@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "876cd8257b601c13",
+        "id": "dabd16737ad907a9",
         "type": "tabs",
         "children": [
           {
-            "id": "f7517aba7580ac4d",
+            "id": "85432bb6d9b493f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上学期/c++/11多态.md",
+                "file": "大三上学期/运维/12项目风险管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大三上学期/c++/11多态.md"
+                "file": "大三上学期/运维/12项目风险管理.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大三上学期/c++/11多态.md",
+                "file": "大三上学期/运维/12项目风险管理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大三上学期/c++/11多态.md",
+                "file": "大三上学期/运维/12项目风险管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,13 +202,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f7517aba7580ac4d",
+  "active": "85432bb6d9b493f5",
   "lastOpenFiles": [
+    "大三上学期/运维/attachments/Pasted image 20240102100759.png",
+    "大三上学期/运维/attachments/Pasted image 20240102100443.png",
+    "大三上学期/运维/attachments/Pasted image 20240102100442.png",
+    "大三上学期/c++/11多态.md",
     "大三上学期/c++/attachments/Pasted image 20240102095017.png",
     "大三上学期/c++/attachments/Pasted image 20240102094759.png",
     "大三上学期/c++/attachments",
     "大三上学期/c++/10类继承.md",
-    "大三上学期/c++/11多态.md",
     "大三上学期/c++/adventures in classes.md",
     "大二上学期/计算机网络原理/应用层.md",
     "大二上学期/计算机网络原理/计算机网络和因特网.md",
@@ -222,13 +225,10 @@
     "大三上学期/运维/attachments/Pasted image 20240101110157.png",
     "大三上学期/运维/attachments/Pasted image 20240101110025.png",
     "大三上学期/运维/attachments/Pasted image 20240101105850.png",
-    "大三上学期/运维/attachments/Pasted image 20240101105835.png",
     "大三上学期/运维/13项目采购管理.md",
-    "大三上学期/运维/attachments/Pasted image 20240101104831.png",
     "大三上学期/c++/5高级函数.md",
     "大三上学期/c++/第一章节.md",
     "大三上学期/运维/12项目风险管理.md",
-    "大三上学期/运维/attachments/Pasted image 20231231102002.png",
     "大三上学期/运维/11项目沟通管理.md",
     "大三上学期/运维/10项目干系人管理.md",
     "大三上学期/运维/9项目资源管理.md",
