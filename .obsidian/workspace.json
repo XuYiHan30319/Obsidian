@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d8b446ab7055554b",
+        "id": "fc9eacbdb94482d2",
         "type": "tabs",
         "children": [
           {
-            "id": "7df1674cb092be41",
+            "id": "9bee3037b7534ddd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-20 09.10.06.excalidraw.md"
+                "file": "大三上学期/运维/Final version.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-20 09.10.06.excalidraw.md"
+                "file": "大三上学期/运维/Final version.md"
               }
             }
           },
@@ -145,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-20 09.10.06.excalidraw.md",
+                "file": "大三上学期/运维/Final version.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-20 09.10.06.excalidraw.md",
+                "file": "大三上学期/运维/Final version.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 276,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,13 +201,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7df1674cb092be41",
+  "active": "9bee3037b7534ddd",
   "lastOpenFiles": [
+    "大三上学期/运维/2组织影响、组织过程资产和事业环境因素.md",
+    "大三上学期/运维/Final version.md",
     "大三上学期/运维/16敏捷项目管理.md",
+    "大三上学期/运维/15 结束项目或阶段.md",
+    "Excalidraw/Drawing 2023-11-20 09.10.06.excalidraw.md",
     "大三上学期/计网.md",
     "大三上学期/运维/attachments/Pasted image 20240102110310.png",
     "大三上学期/运维/3项目管理知识体系.md",
-    "大三上学期/运维/15 结束项目或阶段.md",
     "大三上学期/运维/14合同管理.md",
     "大三上学期/运维/12项目风险管理.md",
     "大三上学期/运维/attachments/Pasted image 20240102101616.png",
@@ -235,8 +241,6 @@
     "大三上学期/运维/4项目整合管理.md",
     "大三上学期/c++",
     "大三上学期/项目管理概念.md",
-    "大三上学期/c++/第二节.md",
-    "大三上学期/运维/7项目成本管理.md",
     "大三上学期/运维/attachments",
     "大三上学期/运维",
     "大三上学期/OS/attachments",
