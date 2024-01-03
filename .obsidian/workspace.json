@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7dd1ca0b9864de53",
+        "id": "7748f692dc15a859",
         "type": "tabs",
         "children": [
           {
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "7560f5b62c51935e",
+        "id": "7dd1ca0b9864de53",
         "type": "tabs",
         "children": [
           {
-            "id": "84fbbc152742cd31",
+            "id": "dc54570056eb5e85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上学期/4项目整合管理.md",
+                "file": "大三上学期/运维/5项目范围管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -222,8 +222,9 @@
   },
   "active": "ae7a0725deb96d73",
   "lastOpenFiles": [
-    "大三上学期/4项目整合管理.md",
+    "大三上学期/运维/5项目范围管理.md",
     "大三上学期/运维/Final version.md",
+    "大三上学期/4项目整合管理.md",
     "大三上学期/运维/3项目管理知识体系.md",
     "大三上学期/运维/2组织影响、组织过程资产和事业环境因素.md",
     "大三上学期/运维/16敏捷项目管理.md",
@@ -259,7 +260,6 @@
     "大三上学期/运维/9项目资源管理.md",
     "大三上学期/运维/8项目质量管理.md",
     "大三上学期/c++",
-    "大三上学期/项目管理概念.md",
     "大三上学期/运维/attachments",
     "大三上学期/运维",
     "大三上学期/OS/attachments",
