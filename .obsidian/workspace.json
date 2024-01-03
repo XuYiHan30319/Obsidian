@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "7dd1ca0b9864de53",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dc54570056eb5e85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大三上学期/运维/5项目范围管理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
