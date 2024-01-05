@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上学期/运维/Final version.md",
+                "file": "大三上学期/c++/adventures in classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "right": {
     "id": "ebf054f9faf0ad81",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大三上学期/运维/Final version.md"
+                "file": "大三上学期/c++/adventures in classes.md"
               }
             }
           },
@@ -148,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大三上学期/运维/Final version.md",
+                "file": "大三上学期/c++/adventures in classes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大三上学期/运维/Final version.md",
+                "file": "大三上学期/c++/adventures in classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,11 +203,12 @@
   },
   "active": "c5e8fb1e7de5f351",
   "lastOpenFiles": [
+    "大三上学期/c++/第一章节.md",
+    "大三上学期/运维/Final version.md",
     "大三上学期/运维/attachments/Pasted image 20240103154931.png",
     "大三上学期/运维/attachments/Pasted image 20240103154917.png",
     "大三上学期/运维/attachments/Pasted image 20240103154911.png",
     "大三上学期/运维/成本基准和管理) 成本基准(批准的预算,是不同进度预算的总和,逐渐增长) 资金.md",
-    "大三上学期/运维/Final version.md",
     "大三上学期/7项目成本管理.md",
     "大三上学期/运维/5项目范围管理.md",
     "大三上学期/4项目整合管理.md",
@@ -228,7 +228,6 @@
     "大三上学期/运维/attachments/Pasted image 20240102100443.png",
     "大三上学期/运维/attachments/Pasted image 20240102100442.png",
     "大三上学期/c++/11多态.md",
-    "大三上学期/c++/attachments/Pasted image 20240102095017.png",
     "大三上学期/c++/attachments",
     "大三上学期/c++/10类继承.md",
     "大三上学期/c++/adventures in classes.md",
@@ -239,7 +238,6 @@
     "大三上学期/c++/6类和对象.md",
     "大三上学期/运维/13项目采购管理.md",
     "大三上学期/c++/5高级函数.md",
-    "大三上学期/c++/第一章节.md",
     "大三上学期/运维/11项目沟通管理.md",
     "大三上学期/c++",
     "大三上学期/运维/attachments",
