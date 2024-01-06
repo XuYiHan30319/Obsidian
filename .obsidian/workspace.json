@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上学期/c++/第一章节.md",
+                "file": "大三上学期/c++/6类和对象.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大三上学期/c++/第一章节.md"
+                "file": "大三上学期/c++/6类和对象.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大三上学期/c++/第一章节.md",
+                "file": "大三上学期/c++/6类和对象.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大三上学期/c++/第一章节.md",
+                "file": "大三上学期/c++/6类和对象.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,10 +202,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c5e8fb1e7de5f351",
+  "active": "ea3eeb1d7999b631",
   "lastOpenFiles": [
-    "大三上学期/c++/adventures in classes.md",
     "大三上学期/c++/第一章节.md",
+    "大三上学期/c++/adventures in classes.md",
     "大三上学期/运维/Final version.md",
     "大三上学期/运维/attachments/Pasted image 20240103154931.png",
     "大三上学期/运维/attachments/Pasted image 20240103154917.png",
