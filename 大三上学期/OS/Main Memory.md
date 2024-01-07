@@ -44,3 +44,10 @@ Paging Table页表:页和帧之间的映射关系
 逻辑地址被分为两块:一个是页面号page number一个是页面偏移page offset,是相对于当前页的偏移
 ![[Pasted image 20240107142916.png]]
 逻辑地址0对应的地址为4096\*2-1+1
+当块没有在内存中的时候会触发一个中断,然后去找到需要的块
+Page Fault:缺页,如果没空的内存了就swap!页面置换算法page replacement algorithm
+![[Pasted image 20240107143912.png]]
+![[Pasted image 20240107143917.png]]
+提升访问速度:提升访问速度,降低page fault
+- TLB translation lookaside buffer翻译后备缓冲器
+- 
