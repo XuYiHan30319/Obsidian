@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Main Memory",
-      "path": "大三上学期/OS/Main Memory.md"
+      "basename": "file system",
+      "path": "大三上学期/OS/file system.md"
     },
     {
       "basename": "单词",
       "path": "大三上学期/OS/单词.md"
+    },
+    {
+      "basename": "Main Memory",
+      "path": "大三上学期/OS/Main Memory.md"
     },
     {
       "basename": "virtual memory",
@@ -195,10 +199,6 @@
     {
       "basename": "未命名 2",
       "path": "未命名 2.canvas"
-    },
-    {
-      "basename": "未命名 1",
-      "path": "未命名 1.canvas"
     }
   ],
   "omittedPaths": [],
