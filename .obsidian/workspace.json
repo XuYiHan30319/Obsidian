@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e5a8854d613933a8",
+        "id": "b10a2d596ca6bfe2",
         "type": "tabs",
         "children": [
           {
-            "id": "c5e8fb1e7de5f351",
+            "id": "c0317c533554f156",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上学期/OS/threads.md",
+                "file": "大三上学期/OS/单词.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大三上学期/OS/threads.md"
+                "file": "大三上学期/OS/单词.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大三上学期/OS/threads.md",
+                "file": "大三上学期/OS/单词.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大三上学期/OS/threads.md",
+                "file": "大三上学期/OS/单词.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,10 +203,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c5e8fb1e7de5f351",
+  "active": "c0317c533554f156",
   "lastOpenFiles": [
+    "大三上学期/OS/cpu scheduling.md",
     "大三上学期/OS/单词.md",
     "大三上学期/OS/threads.md",
+    "大三上学期/OS/attachments/Pasted image 20240107102912.png",
+    "大三上学期/OS/attachments/Pasted image 20240107102902.png",
+    "大三上学期/OS/attachments/Pasted image 20240107102849.png",
     "大三上学期/OS/process.md",
     "大三上学期/OS/attachments/Pasted image 20240107084846.png",
     "大三上学期/OS/attachments/Pasted image 20240107100455.png",
@@ -236,13 +240,9 @@
     "大三上学期/运维/attachments/Pasted image 20240102110310.png",
     "大三上学期/运维/14合同管理.md",
     "大三上学期/运维/12项目风险管理.md",
-    "大三上学期/运维/attachments/Pasted image 20240102101616.png",
-    "大三上学期/运维/attachments/Pasted image 20240102101543.png",
-    "大三上学期/运维/attachments/Pasted image 20240102101237.png",
     "大三上学期/c++/11多态.md",
     "大三上学期/c++/attachments",
     "大三上学期/c++/10类继承.md",
-    "大二上学期/计算机网络原理/应用层.md",
     "大三上学期/c++",
     "大三上学期/运维/attachments",
     "大三上学期/运维",

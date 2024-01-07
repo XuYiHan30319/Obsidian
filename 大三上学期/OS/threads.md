@@ -8,5 +8,9 @@
 进程拥有完整的资源,线程减少时间空间开销,线程通信不走kernel,切换时间更短
 
 ## 多线程模型
-用户等级的线程user-level threads:快,便宜,但是如果kernel单线程,System call能够阻塞zheng'ge're
+用户等级的线程user-level threads:快,便宜,但是如果kernel单线程,System call能够阻塞整个仍无
 内核支持的线程kernel supported threads,能够单独的运行或者阻塞,一个进程可能有多个不同的进程,有点expensive
+![[Pasted image 20240107102849.png]]
+![[Pasted image 20240107102902.png]]
+![[Pasted image 20240107102912.png]]
+线程池:创建一些已经存在的线程,但是数量限制,执行与创建分开
