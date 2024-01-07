@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上学期/OS/Mass-Storage Structure.md",
+                "file": "大三上学期/OS/file system TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大三上学期/OS/Mass-Storage Structure.md"
+                "file": "大三上学期/OS/file system TODO.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大三上学期/OS/Mass-Storage Structure.md",
+                "file": "大三上学期/OS/file system TODO.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大三上学期/OS/Mass-Storage Structure.md",
+                "file": "大三上学期/OS/file system TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,11 +203,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "3d788dd31455a2de",
+  "active": "ea3eeb1d7999b631",
   "lastOpenFiles": [
+    "大三上学期/OS/IO SYSTEM.md",
+    "大三上学期/OS/Mass-Storage Structure.md",
     "大三上学期/OS/attachments/Pasted image 20240107153437.png",
     "大三上学期/OS/attachments/Pasted image 20240107153426.png",
-    "大三上学期/OS/Mass-Storage Structure.md",
     "大三上学期/OS/file system TODO.md",
     "大三上学期/OS/单词.md",
     "大三上学期/OS/attachments/Pasted image 20240107152057.png",
@@ -219,7 +220,6 @@
     "大三上学期/OS/attachments/Pasted image 20240107143912.png",
     "大三上学期/OS/attachments/Pasted image 20240107142916.png",
     "大三上学期/OS/attachments/Pasted image 20240107142453.png",
-    "大三上学期/OS/attachments/Pasted image 20240107141554.png",
     "大三上学期/OS/virtual memory.md",
     "大三上学期/OS/系统结构.md",
     "大三上学期/OS/cpu scheduling.md",

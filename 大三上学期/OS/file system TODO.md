@@ -7,4 +7,7 @@ cylinder:圆柱
 Cylinder-head-sector
 # 文件访问
 顺序访问:文件顺序固定好的
-随机访问:
+随机访问:基于内容的访问
+
+# Allocation Methods
+
