@@ -10,4 +10,9 @@ Cylinder-head-sector
 随机访问:基于内容的访问
 
 # Allocation Methods
+![[Pasted image 20240107171048.png]]
+![[Pasted image 20240107171136.png]]
+FAT:File Allcoation Table
+![[Pasted image 20240107171410.png]]
+Disk Size=32G=$32*1024*1024$
 

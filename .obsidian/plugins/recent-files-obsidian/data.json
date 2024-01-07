@@ -5,16 +5,20 @@
       "path": "大三上学期/OS/file system TODO.md"
     },
     {
+      "basename": "单词",
+      "path": "大三上学期/OS/单词.md"
+    },
+    {
+      "basename": "介绍",
+      "path": "大三上学期/OS/介绍.md"
+    },
+    {
       "basename": "IO SYSTEM",
       "path": "大三上学期/OS/IO SYSTEM.md"
     },
     {
       "basename": "Mass-Storage Structure",
       "path": "大三上学期/OS/Mass-Storage Structure.md"
-    },
-    {
-      "basename": "单词",
-      "path": "大三上学期/OS/单词.md"
     },
     {
       "basename": "Main Memory",
@@ -55,10 +59,6 @@
     {
       "basename": "Drawing 2024-01-07 09.16.16.excalidraw",
       "path": "Excalidraw/Drawing 2024-01-07 09.16.16.excalidraw.md"
-    },
-    {
-      "basename": "介绍",
-      "path": "大三上学期/OS/介绍.md"
     },
     {
       "basename": "6类和对象",
