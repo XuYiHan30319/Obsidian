@@ -5,6 +5,10 @@
       "path": "大三上学期/OS/Main Memory.md"
     },
     {
+      "basename": "单词",
+      "path": "大三上学期/OS/单词.md"
+    },
+    {
       "basename": "系统结构",
       "path": "大三上学期/OS/系统结构.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "threads",
       "path": "大三上学期/OS/threads.md"
-    },
-    {
-      "basename": "单词",
-      "path": "大三上学期/OS/单词.md"
     },
     {
       "basename": "process",
