@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Main Memory",
+      "path": "大三上学期/OS/Main Memory.md"
+    },
+    {
       "basename": "file system TODO",
       "path": "大三上学期/OS/file system TODO.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Mass-Storage Structure",
       "path": "大三上学期/OS/Mass-Storage Structure.md"
-    },
-    {
-      "basename": "Main Memory",
-      "path": "大三上学期/OS/Main Memory.md"
     },
     {
       "basename": "virtual memory",
