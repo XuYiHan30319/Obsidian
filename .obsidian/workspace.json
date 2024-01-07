@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "37bf558cb8f5cefe",
+        "id": "717978cbc15fece0",
         "type": "tabs",
         "children": [
           {
-            "id": "3d788dd31455a2de",
+            "id": "0e1284a5c0990b44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上学期/OS/Main Memory.md",
+                "file": "大三上学期/OS/file system.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大三上学期/OS/Main Memory.md"
+                "file": "大三上学期/OS/file system.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大三上学期/OS/Main Memory.md",
+                "file": "大三上学期/OS/file system.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大三上学期/OS/Main Memory.md",
+                "file": "大三上学期/OS/file system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,9 +203,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "3d788dd31455a2de",
+  "active": "0e1284a5c0990b44",
   "lastOpenFiles": [
-    "大三上学期/OS/file system TODO.md",
+    "大三上学期/OS/attachments/Pasted image 20240107181724.png",
+    "大三上学期/OS/attachments/Pasted image 20240107181236.png",
+    "大三上学期/OS/attachments/Pasted image 20240107181224.png",
+    "大三上学期/OS/Main Memory.md",
+    "大三上学期/OS/file system.md",
     "大三上学期/OS/attachments/Pasted image 20240107172012.png",
     "大三上学期/OS/attachments/Pasted image 20240107171410.png",
     "大三上学期/OS/单词.md",
@@ -218,9 +222,6 @@
     "大三上学期/OS/attachments/Pasted image 20240107153437.png",
     "大三上学期/OS/attachments/Pasted image 20240107153426.png",
     "大三上学期/OS/attachments/Pasted image 20240107152057.png",
-    "大三上学期/OS/Main Memory.md",
-    "大三上学期/OS/attachments/Pasted image 20240107145819.png",
-    "大三上学期/OS/attachments/Pasted image 20240107144953.png",
     "大三上学期/OS/virtual memory.md",
     "大三上学期/OS/系统结构.md",
     "大三上学期/OS/cpu scheduling.md",

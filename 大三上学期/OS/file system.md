@@ -17,3 +17,8 @@ FAT:File Allcoation Table
 Index Files:有一个文件指向另一个文件,那个文件中是一个index文件
 ![[Pasted image 20240107172012.png]]
 
+FCB: File control block,也叫inode
+![[Pasted image 20240107181224.png]]
+![[Pasted image 20240107181236.png]]
+![[Pasted image 20240107181724.png]]
+
