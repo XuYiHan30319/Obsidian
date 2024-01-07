@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39e6375fe4683e72",
+            "id": "b02d48a75efc204b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大三上学期/OS/单词.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "500ec87274e92a28",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,11 +216,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "39e6375fe4683e72",
+  "active": "500ec87274e92a28",
   "lastOpenFiles": [
     "大三上学期/OS/单词.md",
-    "大三上学期/OS/Main Memory.md",
     "大三上学期/OS/virtual memory.md",
+    "大三上学期/OS/Main Memory.md",
+    "大三上学期/OS/attachments/Pasted image 20240107141048.png",
+    "大三上学期/OS/attachments/Pasted image 20240107141040.png",
+    "大三上学期/OS/attachments/Pasted image 20240107140612.png",
+    "大三上学期/OS/attachments/Pasted image 20240107140606.png",
+    "大三上学期/OS/attachments/Pasted image 20240107140601.png",
+    "大三上学期/OS/attachments/Pasted image 20240107140556.png",
     "大三上学期/OS/系统结构.md",
     "大三上学期/OS/cpu scheduling.md",
     "大三上学期/OS/dead lock.md",
@@ -218,11 +237,6 @@
     "大三上学期/OS/attachments/Pasted image 20240107105509.png",
     "大三上学期/OS/attachments/Pasted image 20240107104558.png",
     "大三上学期/OS/attachments/Pasted image 20240107102912.png",
-    "大三上学期/OS/attachments/Pasted image 20240107102902.png",
-    "大三上学期/OS/attachments/Pasted image 20240107102849.png",
-    "大三上学期/OS/attachments/Pasted image 20240107084846.png",
-    "大三上学期/OS/attachments/Pasted image 20240107100455.png",
-    "大三上学期/OS/attachments/Pasted image 20240107093439.png",
     "Excalidraw/Drawing 2024-01-07 09.16.16.excalidraw.md",
     "大三上学期/OS/介绍.md",
     "大三上学期/OS/attachments",
@@ -231,7 +245,6 @@
     "大三上学期/c++/第一章节.md",
     "大三上学期/c++/adventures in classes.md",
     "大三上学期/运维/Final version.md",
-    "大三上学期/运维/attachments/Pasted image 20240103154931.png",
     "大三上学期/运维/成本基准和管理) 成本基准(批准的预算,是不同进度预算的总和,逐渐增长) 资金.md",
     "大三上学期/7项目成本管理.md",
     "大三上学期/运维/5项目范围管理.md",
@@ -241,7 +254,6 @@
     "大三上学期/运维/16敏捷项目管理.md",
     "大三上学期/运维/15 结束项目或阶段.md",
     "Excalidraw/Drawing 2023-11-20 09.10.06.excalidraw.md",
-    "大三上学期/计网.md",
     "大三上学期/c++/attachments",
     "大三上学期/c++",
     "大三上学期/运维/attachments",
