@@ -50,4 +50,10 @@ Page Fault:缺页,如果没空的内存了就swap!页面置换算法page replace
 ![[Pasted image 20240107143917.png]]
 提升访问速度:提升访问速度,降低page fault
 - TLB translation lookaside buffer翻译后备缓冲器
-- 
+
+# Page Replacement algorithm
+FIFO policy:先来先走
+Optimal Page Replacement:预知未来,找未来最长时间不使用的
+![[Pasted image 20240107144901.png]]
+LRU算法:最近最少使用![[Pasted image 20240107144953.png]]
+时钟算法:
