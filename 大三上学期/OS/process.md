@@ -14,3 +14,12 @@ process的调度可以被分为IO-bound process和CPU-bound process,io bound就�
 进程同步,死锁,通信,创建和删除,挂起和恢复
 一个进程可以创建子进程,这些进程共享资源(儿子共享父亲但是反之不行)并且并发执行
 ## 进程通信
+独立的进程无法受其他进程的影响,合作的进程可以
+- 共享内存
+- 消息传递:
+
+producer-consumer:共享内存模型,一边拉一边吃
+消息系统:send(p,mesage) receive(q,message)
+direction communicatio:直接指出传给谁
+indireciton communciaton:通过mailbox传递消息
+消息传递可以阻塞也可以不阻塞

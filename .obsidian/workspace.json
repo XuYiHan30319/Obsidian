@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上学期/OS/process.md",
+                "file": "大三上学期/OS/threads.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cd2b36d294ef5a8f",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大三上学期/OS/process.md"
+                "file": "大三上学期/OS/threads.md"
               }
             }
           },
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大三上学期/OS/process.md",
+                "file": "大三上学期/OS/threads.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大三上学期/OS/process.md",
+                "file": "大三上学期/OS/threads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,13 +205,15 @@
   },
   "active": "c5e8fb1e7de5f351",
   "lastOpenFiles": [
+    "大三上学期/OS/process.md",
+    "大三上学期/OS/threads.md",
+    "大三上学期/OS/单词.md",
+    "大三上学期/OS/attachments/Pasted image 20240107084846.png",
     "大三上学期/OS/attachments/Pasted image 20240107100455.png",
     "大三上学期/OS/attachments/Pasted image 20240107093439.png",
     "大三上学期/OS/系统结构.md",
-    "大三上学期/OS/process.md",
     "Excalidraw/Drawing 2024-01-07 09.16.16.excalidraw.md",
     "大三上学期/OS/介绍.md",
-    "大三上学期/OS/attachments/Pasted image 20240107084846.png",
     "大三上学期/OS/attachments",
     "大三上学期/c++/6类和对象.md",
     "大三上学期/OS/进程.md",
@@ -236,12 +239,10 @@
     "大三上学期/运维/attachments/Pasted image 20240102101616.png",
     "大三上学期/运维/attachments/Pasted image 20240102101543.png",
     "大三上学期/运维/attachments/Pasted image 20240102101237.png",
-    "大三上学期/运维/attachments/Pasted image 20240102100759.png",
     "大三上学期/c++/11多态.md",
     "大三上学期/c++/attachments",
     "大三上学期/c++/10类继承.md",
     "大二上学期/计算机网络原理/应用层.md",
-    "大二上学期/计算机网络原理/计算机网络和因特网.md",
     "大三上学期/c++",
     "大三上学期/运维/attachments",
     "大三上学期/运维",

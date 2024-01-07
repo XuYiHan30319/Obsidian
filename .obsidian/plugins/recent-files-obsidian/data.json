@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "threads",
+      "path": "大三上学期/OS/threads.md"
+    },
+    {
       "basename": "process",
       "path": "大三上学期/OS/process.md"
+    },
+    {
+      "basename": "单词",
+      "path": "大三上学期/OS/单词.md"
+    },
+    {
+      "basename": "Pasted image 20240107084846",
+      "path": "大三上学期/OS/attachments/Pasted image 20240107084846.png"
     },
     {
       "basename": "系统结构",
@@ -187,18 +199,6 @@
     {
       "basename": "数据库恢复技术",
       "path": "大二上学期/数据库/数据库恢复技术.md"
-    },
-    {
-      "basename": "数据库设计",
-      "path": "大二上学期/数据库/数据库设计.md"
-    },
-    {
-      "basename": "数据库完整性",
-      "path": "大二上学期/数据库/数据库完整性.md"
-    },
-    {
-      "basename": "数据库系统概述",
-      "path": "大二上学期/数据库/数据库系统概述.md"
     }
   ],
   "omittedPaths": [],
