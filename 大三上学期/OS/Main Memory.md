@@ -41,3 +41,6 @@ paging就是fixed partitioning但是更小
 Paging Table页表:页和帧之间的映射关系
 ![[Pasted image 20240107142453.png]]
 虚拟内存:可以任意大小
+逻辑地址被分为两块:一个是页面号page number一个是页面偏移page offset,是相对于当前页的偏移
+![[Pasted image 20240107142916.png]]
+逻辑地址0对应的地址为4096\*2-1+1
