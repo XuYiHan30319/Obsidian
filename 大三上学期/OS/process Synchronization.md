@@ -29,3 +29,6 @@ Signal (S){
 ```
 有两种方法:Binary信号量,只能是0/1
 counting信号量:无限制
+信号量的初始化:semaphore full:初始化为0
+semaphore empty:初始化为n
+sempahore mutex:初始化为1,保证互斥操作
