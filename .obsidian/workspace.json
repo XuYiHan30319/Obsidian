@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "大三上学期/OS/单词.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fae70a2be7d20cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "大三上学期/OS/process Synchronization.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,13 +216,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "39e6375fe4683e72",
+  "active": "9fae70a2be7d20cb",
   "lastOpenFiles": [
+    "大三上学期/OS/单词.md",
     "大三上学期/OS/process Synchronization.md",
     "大三上学期/OS/cpu scheduling.md",
     "大三上学期/OS/attachments/Pasted image 20240107105509.png",
     "大三上学期/OS/process.md",
-    "大三上学期/OS/单词.md",
     "大三上学期/OS/attachments/Pasted image 20240107104558.png",
     "大三上学期/OS/threads.md",
     "大三上学期/OS/attachments/Pasted image 20240107102912.png",
