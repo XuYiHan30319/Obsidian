@@ -56,4 +56,7 @@ FIFO policy:先来先走
 Optimal Page Replacement:预知未来,找未来最长时间不使用的
 ![[Pasted image 20240107144901.png]]
 LRU算法:最近最少使用![[Pasted image 20240107144953.png]]
-时钟算法:
+时钟算法:![[Pasted image 20240107145819.png]]
+Possibility of Thrashing抖动:
+a process is busy swapping pages inand out. 进程忙于换入和换出页面
+# Segmenting
