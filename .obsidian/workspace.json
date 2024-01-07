@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b10a2d596ca6bfe2",
+        "id": "6aaff4a427c2e31f",
         "type": "tabs",
         "children": [
           {
-            "id": "c0317c533554f156",
+            "id": "39e6375fe4683e72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上学期/OS/cpu scheduling.md",
+                "file": "大三上学期/OS/process Synchronization.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大三上学期/OS/cpu scheduling.md"
+                "file": "大三上学期/OS/process Synchronization.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大三上学期/OS/cpu scheduling.md",
+                "file": "大三上学期/OS/process Synchronization.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大三上学期/OS/cpu scheduling.md",
+                "file": "大三上学期/OS/process Synchronization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,16 +203,18 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c0317c533554f156",
+  "active": "39e6375fe4683e72",
   "lastOpenFiles": [
+    "大三上学期/OS/process Synchronization.md",
+    "大三上学期/OS/cpu scheduling.md",
+    "大三上学期/OS/attachments/Pasted image 20240107105509.png",
+    "大三上学期/OS/process.md",
+    "大三上学期/OS/单词.md",
     "大三上学期/OS/attachments/Pasted image 20240107104558.png",
     "大三上学期/OS/threads.md",
-    "大三上学期/OS/单词.md",
-    "大三上学期/OS/cpu scheduling.md",
     "大三上学期/OS/attachments/Pasted image 20240107102912.png",
     "大三上学期/OS/attachments/Pasted image 20240107102902.png",
     "大三上学期/OS/attachments/Pasted image 20240107102849.png",
-    "大三上学期/OS/process.md",
     "大三上学期/OS/attachments/Pasted image 20240107084846.png",
     "大三上学期/OS/attachments/Pasted image 20240107100455.png",
     "大三上学期/OS/attachments/Pasted image 20240107093439.png",
@@ -227,7 +229,6 @@
     "大三上学期/运维/Final version.md",
     "大三上学期/运维/attachments/Pasted image 20240103154931.png",
     "大三上学期/运维/attachments/Pasted image 20240103154917.png",
-    "大三上学期/运维/attachments/Pasted image 20240103154911.png",
     "大三上学期/运维/成本基准和管理) 成本基准(批准的预算,是不同进度预算的总和,逐渐增长) 资金.md",
     "大三上学期/7项目成本管理.md",
     "大三上学期/运维/5项目范围管理.md",
@@ -238,7 +239,6 @@
     "大三上学期/运维/15 结束项目或阶段.md",
     "Excalidraw/Drawing 2023-11-20 09.10.06.excalidraw.md",
     "大三上学期/计网.md",
-    "大三上学期/运维/attachments/Pasted image 20240102110310.png",
     "大三上学期/运维/14合同管理.md",
     "大三上学期/运维/12项目风险管理.md",
     "大三上学期/c++/11多态.md",

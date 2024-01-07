@@ -9,5 +9,7 @@ waiting time:等待时间
 FCFS:![[Pasted image 20240107104558.png]]
 RR:如果同时的话,新加入的先入队列
 SJF:
-SRTJ(preemptive抢占):
+SRTF(preemptive抢占):
 priority:
+Multilevel Queue Scheduling:每个都有自己的调度算法
+Multilevel Feedback Queue Scheduling:![[Pasted image 20240107105509.png]]

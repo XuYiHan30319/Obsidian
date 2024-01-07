@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "process Synchronization",
+      "path": "大三上学期/OS/process Synchronization.md"
+    },
+    {
       "basename": "cpu scheduling",
       "path": "大三上学期/OS/cpu scheduling.md"
     },
     {
-      "basename": "threads",
-      "path": "大三上学期/OS/threads.md"
+      "basename": "process",
+      "path": "大三上学期/OS/process.md"
     },
     {
       "basename": "单词",
       "path": "大三上学期/OS/单词.md"
     },
     {
-      "basename": "process",
-      "path": "大三上学期/OS/process.md"
+      "basename": "threads",
+      "path": "大三上学期/OS/threads.md"
     },
     {
       "basename": "Pasted image 20240107084846",
@@ -195,10 +199,6 @@
     {
       "basename": "数据库安全性",
       "path": "大二上学期/数据库/数据库安全性.md"
-    },
-    {
-      "basename": "数据库编程",
-      "path": "大二上学期/数据库/数据库编程.md"
     }
   ],
   "omittedPaths": [],
