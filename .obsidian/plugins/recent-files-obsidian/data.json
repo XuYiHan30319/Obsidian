@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "process Synchronization",
-      "path": "大三上学期/OS/process Synchronization.md"
+      "basename": "dead lock",
+      "path": "大三上学期/OS/dead lock.md"
     },
     {
       "basename": "单词",
       "path": "大三上学期/OS/单词.md"
+    },
+    {
+      "basename": "process Synchronization",
+      "path": "大三上学期/OS/process Synchronization.md"
     },
     {
       "basename": "cpu scheduling",
@@ -195,10 +199,6 @@
     {
       "basename": "并发控制",
       "path": "大二上学期/数据库/并发控制.md"
-    },
-    {
-      "basename": "数据库安全性",
-      "path": "大二上学期/数据库/数据库安全性.md"
     }
   ],
   "omittedPaths": [],
