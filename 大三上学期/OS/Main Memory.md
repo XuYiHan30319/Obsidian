@@ -1,12 +1,9 @@
 程序被放进内存中才能跑
-内存管理:Memory management activities
-
-• Keeping track of which parts of memory are currently being
-
-used and by whom
-
-• Deciding which processes (or parts thereof) and data to
-
-move into and out of memory
-
+内存管理:
+• Keeping track of which parts of memory are currently being used and by whom
+• Deciding which processes (or parts thereof) and data to move into and out of memory
 • Allocating and deallocating memory space as needed
+物理地址:cpu产生的
+逻辑地址:内存单元看见的
+只有在执行地址绑定方案的时候才有区别
+MMU:映射逻辑地址到物理地址,用户程序永远看不到物理地址,mmu就是逻辑地址+基地址
