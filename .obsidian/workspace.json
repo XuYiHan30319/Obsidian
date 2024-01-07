@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上学期/c++/6类和对象.md",
+                "file": "大三上学期/OS/介绍.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大三上学期/c++/6类和对象.md"
+                "file": "大三上学期/OS/介绍.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大三上学期/c++/6类和对象.md",
+                "file": "大三上学期/OS/介绍.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大三上学期/c++/6类和对象.md",
+                "file": "大三上学期/OS/介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,8 +202,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ea3eeb1d7999b631",
+  "active": "c5e8fb1e7de5f351",
   "lastOpenFiles": [
+    "大三上学期/c++/6类和对象.md",
+    "大三上学期/OS/介绍.md",
+    "大三上学期/OS/进程.md",
     "大三上学期/c++/第一章节.md",
     "大三上学期/c++/adventures in classes.md",
     "大三上学期/运维/Final version.md",
@@ -236,10 +239,8 @@
     "大二上学期/计算机网络原理/计算机网络和因特网.md",
     "大三上学期/c++/8操作符重载.md",
     "大三上学期/c++/7static和友元.md",
-    "大三上学期/c++/6类和对象.md",
     "大三上学期/运维/13项目采购管理.md",
     "大三上学期/c++/5高级函数.md",
-    "大三上学期/运维/11项目沟通管理.md",
     "大三上学期/c++",
     "大三上学期/运维/attachments",
     "大三上学期/运维",
