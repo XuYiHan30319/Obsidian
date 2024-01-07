@@ -9,6 +9,10 @@
       "path": "大三上学期/OS/单词.md"
     },
     {
+      "basename": "virtual memory",
+      "path": "大三上学期/OS/virtual memory.md"
+    },
+    {
       "basename": "系统结构",
       "path": "大三上学期/OS/系统结构.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "未命名 1",
       "path": "未命名 1.canvas"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.canvas"
     }
   ],
   "omittedPaths": [],
