@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上学期/OS/dead lock.md",
+                "file": "大三上学期/OS/Main Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大三上学期/OS/dead lock.md"
+                "file": "大三上学期/OS/Main Memory.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大三上学期/OS/dead lock.md",
+                "file": "大三上学期/OS/Main Memory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大三上学期/OS/dead lock.md",
+                "file": "大三上学期/OS/Main Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,9 +205,10 @@
   },
   "active": "39e6375fe4683e72",
   "lastOpenFiles": [
+    "大三上学期/OS/dead lock.md",
+    "大三上学期/OS/Main Memory.md",
     "大三上学期/OS/attachments/Pasted image 20240107131102.png",
     "大三上学期/OS/单词.md",
-    "大三上学期/OS/dead lock.md",
     "大三上学期/OS/process Synchronization.md",
     "大三上学期/OS/cpu scheduling.md",
     "大三上学期/OS/attachments/Pasted image 20240107105509.png",
@@ -230,7 +231,6 @@
     "大三上学期/c++/adventures in classes.md",
     "大三上学期/运维/Final version.md",
     "大三上学期/运维/attachments/Pasted image 20240103154931.png",
-    "大三上学期/运维/attachments/Pasted image 20240103154917.png",
     "大三上学期/运维/成本基准和管理) 成本基准(批准的预算,是不同进度预算的总和,逐渐增长) 资金.md",
     "大三上学期/7项目成本管理.md",
     "大三上学期/运维/5项目范围管理.md",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Main Memory",
+      "path": "大三上学期/OS/Main Memory.md"
+    },
+    {
       "basename": "dead lock",
       "path": "大三上学期/OS/dead lock.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "未命名",
       "path": "未命名.canvas"
-    },
-    {
-      "basename": "并发控制",
-      "path": "大二上学期/数据库/并发控制.md"
     }
   ],
   "omittedPaths": [],
