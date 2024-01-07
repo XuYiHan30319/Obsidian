@@ -29,3 +29,15 @@ next-fit临近适配:从上一次的地址开始找
 内碎片internal fragmentation:分配的内存可能比需要的打一点,多出来的那点内存无法使用
 external fragmentation外碎片:总的够,但是单个不够
 # compaction压缩
+外部碎片可以被压缩
+![[Pasted image 20240107141547.png]]
+![[Pasted image 20240107141554.png]]
+需要搬运程序和数据,修改基地址(process limited长度)
+# Paging
+paging就是fixed partitioning但是更小
+- 逻辑地址被分为页
+- 物理地址被分为帧
+
+Paging Table页表:页和帧之间的映射关系
+![[Pasted image 20240107142453.png]]
+虚拟内存:可以任意大小
