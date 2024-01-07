@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "process",
+      "path": "大三上学期/OS/process.md"
+    },
+    {
       "basename": "系统结构",
       "path": "大三上学期/OS/系统结构.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "数据库系统概述",
       "path": "大二上学期/数据库/数据库系统概述.md"
-    },
-    {
-      "basename": "数据库",
-      "path": "大二上学期/数据库/数据库.md"
     }
   ],
   "omittedPaths": [],

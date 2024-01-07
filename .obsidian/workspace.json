@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上学期/OS/系统结构.md",
+                "file": "大三上学期/OS/process.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大三上学期/OS/系统结构.md"
+                "file": "大三上学期/OS/process.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大三上学期/OS/系统结构.md",
+                "file": "大三上学期/OS/process.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大三上学期/OS/系统结构.md",
+                "file": "大三上学期/OS/process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,8 +204,10 @@
   },
   "active": "c5e8fb1e7de5f351",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-07 09.16.16.excalidraw.md",
+    "大三上学期/OS/attachments/Pasted image 20240107093439.png",
     "大三上学期/OS/系统结构.md",
+    "大三上学期/OS/process.md",
+    "Excalidraw/Drawing 2024-01-07 09.16.16.excalidraw.md",
     "大三上学期/OS/介绍.md",
     "大三上学期/OS/attachments/Pasted image 20240107084846.png",
     "大三上学期/OS/attachments",
@@ -240,8 +242,6 @@
     "大三上学期/c++/10类继承.md",
     "大二上学期/计算机网络原理/应用层.md",
     "大二上学期/计算机网络原理/计算机网络和因特网.md",
-    "大三上学期/c++/8操作符重载.md",
-    "大三上学期/c++/7static和友元.md",
     "大三上学期/c++",
     "大三上学期/运维/attachments",
     "大三上学期/运维",
