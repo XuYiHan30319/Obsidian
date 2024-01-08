@@ -11,8 +11,12 @@
             "id": "7f03d037aaa656c5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "大三上学期/OS/单词.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "right": {
     "id": "ebf054f9faf0ad81",
@@ -134,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "大三上学期/OS/单词.md"
+              }
             }
           },
           {
@@ -143,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "大三上学期/OS/单词.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "大三上学期/OS/单词.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
