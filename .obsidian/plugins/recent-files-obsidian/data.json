@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "PaddlePaddle",
+      "path": "大二下学期/人工智能导论/PaddlePaddle.md"
+    },
+    {
+      "basename": "神经网络",
+      "path": "大二下学期/人工智能导论/神经网络.md"
+    },
+    {
+      "basename": "机器学习",
+      "path": "大二下学期/人工智能导论/机器学习.md"
+    },
+    {
+      "basename": "概论",
+      "path": "大二下学期/人工智能导论/概论.md"
+    },
+    {
       "basename": "词法分析",
       "path": "大二下学期/编译原理/词法分析.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "第一课",
       "path": "大三上学期/c++/第一课.md"
-    },
-    {
-      "basename": "4",
-      "path": "大三上学期/c++/4.md"
-    },
-    {
-      "basename": "分治策略",
-      "path": "算法导论/分治策略.md"
-    },
-    {
-      "basename": "算法基础",
-      "path": "算法导论/算法基础.md"
-    },
-    {
-      "basename": "概率分析和随机算法",
-      "path": "算法导论/概率分析和随机算法.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大二下学期/编译原理/词法分析.md",
+                "file": "大二下学期/人工智能导论/PaddlePaddle.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大二下学期/编译原理/词法分析.md"
+                "file": "大二下学期/人工智能导论/PaddlePaddle.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大二下学期/编译原理/词法分析.md",
+                "file": "大二下学期/人工智能导论/PaddlePaddle.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大二下学期/编译原理/词法分析.md",
+                "file": "大二下学期/人工智能导论/PaddlePaddle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,8 +202,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7f03d037aaa656c5",
+  "active": "ea3eeb1d7999b631",
   "lastOpenFiles": [
+    "大二下学期/人工智能导论/神经网络.md",
+    "大二下学期/人工智能导论/机器学习.md",
+    "大二下学期/人工智能导论/概论.md",
+    "大二下学期/编译原理/词法分析.md",
     "大二下学期/数据库/标准化.md",
     "大二下学期/数据库/储物袋/-10f4f1651dcb4466.jpg",
     "大三上学期/c++/6类和对象.md",
@@ -237,10 +241,6 @@
     "大三上学期/c++/adventures in classes.md",
     "大三上学期/运维/Final version.md",
     "大三上学期/运维/成本基准和管理) 成本基准(批准的预算,是不同进度预算的总和,逐渐增长) 资金.md",
-    "大三上学期/运维/7项目成本管理.md",
-    "大三上学期/运维/5项目范围管理.md",
-    "大三上学期/运维/4项目整合管理.md",
-    "大三上学期/运维/3项目管理知识体系.md",
     "大三上学期/c++/attachments",
     "大三上学期/c++",
     "大三上学期/运维/attachments",
