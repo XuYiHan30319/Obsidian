@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大二下学期/人工智能导论/PaddlePaddle.md",
+                "file": "美赛/美赛.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大二下学期/人工智能导论/PaddlePaddle.md"
+                "file": "美赛/美赛.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大二下学期/人工智能导论/PaddlePaddle.md",
+                "file": "美赛/美赛.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大二下学期/人工智能导论/PaddlePaddle.md",
+                "file": "美赛/美赛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,8 +202,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ea3eeb1d7999b631",
+  "active": "7f03d037aaa656c5",
   "lastOpenFiles": [
+    "大二下学期/人工智能导论/PaddlePaddle.md",
+    "美赛/美赛.md",
+    "美赛",
+    "大三下学期",
+    "大创2023/立项报告.md",
     "大二下学期/人工智能导论/神经网络.md",
     "大二下学期/人工智能导论/机器学习.md",
     "大二下学期/人工智能导论/概论.md",
@@ -238,9 +243,6 @@
     "大三上学期/OS/attachments",
     "大三上学期/OS/进程.md",
     "大三上学期/c++/第一章节.md",
-    "大三上学期/c++/adventures in classes.md",
-    "大三上学期/运维/Final version.md",
-    "大三上学期/运维/成本基准和管理) 成本基准(批准的预算,是不同进度预算的总和,逐渐增长) 资金.md",
     "大三上学期/c++/attachments",
     "大三上学期/c++",
     "大三上学期/运维/attachments",
@@ -248,9 +250,7 @@
     "Excalidraw",
     "深度学习/attachments",
     "大创2023/未命名",
-    "大三上学期/实训",
     "Untitled.canvas",
-    "大三上学期/OS",
     "未命名 2.canvas",
     "未命名 1.canvas",
     "未命名.canvas",

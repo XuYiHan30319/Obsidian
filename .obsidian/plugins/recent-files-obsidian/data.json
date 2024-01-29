@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "美赛",
+      "path": "美赛/美赛.md"
+    },
+    {
       "basename": "PaddlePaddle",
       "path": "大二下学期/人工智能导论/PaddlePaddle.md"
     },
@@ -93,10 +97,6 @@
       "path": "大三上学期/OS/attachments/Pasted image 20240107084846.png"
     },
     {
-      "basename": "Drawing 2024-01-07 09.16.16.excalidraw",
-      "path": "Excalidraw/Drawing 2024-01-07 09.16.16.excalidraw.md"
-    },
-    {
       "basename": "第一章节",
       "path": "大三上学期/c++/第一章节.md"
     },
@@ -135,10 +135,6 @@
     {
       "basename": "15 结束项目或阶段",
       "path": "大三上学期/运维/15 结束项目或阶段.md"
-    },
-    {
-      "basename": "Drawing 2023-11-20 09.10.06.excalidraw",
-      "path": "Excalidraw/Drawing 2023-11-20 09.10.06.excalidraw.md"
     },
     {
       "basename": "14合同管理",
