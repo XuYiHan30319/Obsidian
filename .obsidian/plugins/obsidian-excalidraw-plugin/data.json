@@ -1,5 +1,6 @@
 {
   "folder": "Excalidraw",
+  "cropFolder": "",
   "embedUseExcalidrawFolder": false,
   "templateFilePath": "Excalidraw/Template.excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",
@@ -13,6 +14,7 @@
   "drawingFilnameEmbedPostfix": " ",
   "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
   "useExcalidrawExtension": true,
+  "cropPrefix": "cropped_",
   "displaySVGInPreview": true,
   "previewImageType": "SVGIMG",
   "allowImageCache": true,
@@ -85,7 +87,7 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": false,
-  "previousRelease": "2.0.14",
+  "previousRelease": "2.0.19",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
@@ -725,5 +727,6 @@
     }
   },
   "slidingPanesSupport": false,
+  "areaZoomLimit": 1,
   "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js"
 }

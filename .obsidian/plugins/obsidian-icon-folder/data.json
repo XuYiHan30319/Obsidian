@@ -1,6 +1,6 @@
 {
   "settings": {
-    "migrated": 3,
+    "migrated": 4,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
     "iconColor": null,
@@ -29,7 +29,8 @@
     "iconInTitleEnabled": false,
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
-    "iconsInNotesEnabled": true
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
   },
   "大二上学期/大学物理": "😀",
   "大二上学期/数据结构": "FasCodeFork",
