@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bf4a3d9a86a64aaa",
+        "id": "01103f17f89af14d",
         "type": "tabs",
         "children": [
           {
-            "id": "7f03d037aaa656c5",
+            "id": "bae7003d674d924b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "美赛/美赛.md",
+                "file": "大三下学期/实训/spingboot.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "美赛/美赛.md"
+                "file": "大三下学期/实训/spingboot.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "美赛/美赛.md",
+                "file": "大三下学期/实训/spingboot.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "美赛/美赛.md",
+                "file": "大三下学期/实训/spingboot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,15 +197,21 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7f03d037aaa656c5",
+  "active": "bae7003d674d924b",
   "lastOpenFiles": [
-    "大二下学期/人工智能导论/PaddlePaddle.md",
+    "Users/blackcat/Library/Application.md",
+    "大三下学期/实训/spingboot.md",
+    "Users/blackcat/Library",
+    "Users/blackcat",
+    "Users",
+    "大三下学期/BKU/train.md",
     "美赛/美赛.md",
+    "大二下学期/人工智能导论/PaddlePaddle.md",
     "美赛",
     "大三下学期",
     "大创2023/立项报告.md",
@@ -239,17 +245,11 @@
     "大三上学期/OS/process Synchronization.md",
     "大三上学期/OS/threads.md",
     "大三上学期/OS/process.md",
-    "Excalidraw/Drawing 2024-01-07 09.16.16.excalidraw.md",
     "大三上学期/OS/attachments",
-    "大三上学期/OS/进程.md",
-    "大三上学期/c++/第一章节.md",
     "大三上学期/c++/attachments",
     "大三上学期/c++",
     "大三上学期/运维/attachments",
     "大三上学期/运维",
-    "Excalidraw",
-    "深度学习/attachments",
-    "大创2023/未命名",
     "Untitled.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",

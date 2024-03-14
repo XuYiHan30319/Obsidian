@@ -28,10 +28,6 @@ controller层负责前后端交互，接收前端请求，调用service层，接
 
 
 
-
-
-
-
 - 首先，在类顶部添加 **@RestController** 注解。
 - 现在，编写一个带有 **@RequestMapping** 注解的请求 URI 方法。
 - 然后，Request URI 方法应该返回 **Hello World** 字符串。
