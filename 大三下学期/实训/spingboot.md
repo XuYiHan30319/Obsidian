@@ -220,5 +220,4 @@ graph TD;
     K-->EN
     P-->EN
     EN((返回前端))
-    config::width: 100%;
 ```
