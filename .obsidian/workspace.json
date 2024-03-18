@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大二下学期/编译原理/概论.md",
+                "file": "bku/数据集问题大全.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大二下学期/编译原理/概论.md"
+                "file": "bku/数据集问题大全.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大二下学期/编译原理/概论.md",
+                "file": "bku/数据集问题大全.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大二下学期/编译原理/概论.md",
+                "file": "bku/数据集问题大全.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276,
-    "collapsed": true
+    "width": 276
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,12 +201,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ea3eeb1d7999b631",
+  "active": "7f04b37be7b21d61",
   "lastOpenFiles": [
+    "大二下学期/编译原理/概论.md",
+    "bku/数据集问题大全.md",
+    "bku",
+    "Users/blackcat/Library/Application.md",
     "大三上学期/运维/4项目整合管理.md",
     "大三上学期/运维/2组织影响、组织过程资产和事业环境因素.md",
     "大三下学期/实训/spingboot.md",
-    "Users/blackcat/Library/Application.md",
     "Users/blackcat/Library",
     "Users/blackcat",
     "Users",
@@ -243,13 +245,10 @@
     "大三上学期/OS/virtual memory.md",
     "大三上学期/OS/系统结构.md",
     "大三上学期/OS/cpu scheduling.md",
-    "大三上学期/OS/dead lock.md",
-    "大三上学期/OS/process Synchronization.md",
     "大三上学期/OS/attachments",
     "大三上学期/c++/attachments",
     "大三上学期/c++",
     "大三上学期/运维/attachments",
-    "大三上学期/运维",
     "Untitled.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
