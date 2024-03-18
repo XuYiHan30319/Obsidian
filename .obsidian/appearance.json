@@ -1,14 +1,15 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "BRAT-AnubisNekhet----AnuPpuccin",
   "baseFontSize": 17,
   "enabledCssSnippets": [
     "extended-colorschemes",
     "yaozhuwa@CSS",
     "AnuExtendTheme",
     "预览模式优化-空白行-行间距",
-    "mermaid"
+    "mermaid",
+    "网格背景"
   ],
   "translucency": true,
   "interfaceFontFamily": "",

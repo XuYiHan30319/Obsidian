@@ -11,8 +11,12 @@
             "id": "7f04b37be7b21d61",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "大二下学期/编译原理/概论.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -133,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "大二下学期/编译原理/概论.md"
+              }
             }
           },
           {
@@ -142,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "大二下学期/编译原理/概论.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "大二下学期/编译原理/概论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,12 +198,14 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0ce83785c9a7605f",
+  "active": "ea3eeb1d7999b631",
   "lastOpenFiles": [
+    "大三上学期/运维/4项目整合管理.md",
+    "大三上学期/运维/2组织影响、组织过程资产和事业环境因素.md",
     "大三下学期/实训/spingboot.md",
     "Users/blackcat/Library/Application.md",
     "Users/blackcat/Library",
@@ -235,8 +245,6 @@
     "大三上学期/OS/cpu scheduling.md",
     "大三上学期/OS/dead lock.md",
     "大三上学期/OS/process Synchronization.md",
-    "大三上学期/OS/threads.md",
-    "大三上学期/OS/process.md",
     "大三上学期/OS/attachments",
     "大三上学期/c++/attachments",
     "大三上学期/c++",
