@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dadea3da12e63771",
+        "id": "dc96556d8aac452b",
         "type": "tabs",
         "children": [
           {
-            "id": "7f04b37be7b21d61",
+            "id": "0d1f1f83e80cc0aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pointcloud/pointnet2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -137,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "pointcloud/pointnet2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pointcloud/pointnet2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pointcloud/pointnet2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,8 +194,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7f04b37be7b21d61",
+  "active": "0d1f1f83e80cc0aa",
   "lastOpenFiles": [
+    "pointcloud/pointnet2.md",
     "pointcloud/attachments/Pasted image 20240321170151.png",
     "pointcloud/attachments/Pasted image 20240321164951.png",
     "pointcloud/attachments",
@@ -243,7 +236,6 @@
     "大三上学期/c++/5高级函数.md",
     "大三上学期/OS/单词.md",
     "大三上学期/OS/file system.md",
-    "大三上学期/OS/attachments/Pasted image 20240107181724.png",
     "大三上学期/OS/Main Memory.md",
     "大三上学期/OS/介绍.md",
     "大三上学期/OS/IO SYSTEM.md",
