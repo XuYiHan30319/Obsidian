@@ -11,8 +11,12 @@
             "id": "0d1f1f83e80cc0aa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pointcloud/pointnet2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -133,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "pointcloud/pointnet2.md"
+              }
             }
           },
           {
@@ -142,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pointcloud/pointnet2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pointcloud/pointnet2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
