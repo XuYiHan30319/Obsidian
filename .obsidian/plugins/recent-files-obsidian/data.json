@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "pointnet2",
+      "path": "pointcloud/pointnet2.md"
+    },
+    {
       "basename": "变换",
       "path": "大三下学期/图形学/变换.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "10项目干系人管理",
       "path": "大三上学期/运维/10项目干系人管理.md"
-    },
-    {
-      "basename": "9项目资源管理",
-      "path": "大三上学期/运维/9项目资源管理.md"
     }
   ],
   "omittedPaths": [],
