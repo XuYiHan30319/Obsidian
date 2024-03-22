@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "point net++",
-      "path": "point cloud/point net++.md"
-    },
-    {
       "basename": "数据集问题大全",
       "path": "bku/数据集问题大全.md"
+    },
+    {
+      "basename": "俩有序数组中第N大的数",
+      "path": "Leetcode/俩有序数组中第N大的数.md"
+    },
+    {
+      "basename": "point net++",
+      "path": "point cloud/point net++.md"
     },
     {
       "basename": "概论",
@@ -195,10 +199,6 @@
     {
       "basename": "10项目干系人管理",
       "path": "大三上学期/运维/10项目干系人管理.md"
-    },
-    {
-      "basename": "9项目资源管理",
-      "path": "大三上学期/运维/9项目资源管理.md"
     }
   ],
   "omittedPaths": [],
