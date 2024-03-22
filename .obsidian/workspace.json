@@ -185,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 276,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,6 +203,9 @@
   },
   "active": "7f04b37be7b21d61",
   "lastOpenFiles": [
+    "bku/attachments/Pasted image 20240322193101.png",
+    "bku/attachments/Pasted image 20240322193055.png",
+    "bku/attachments",
     "Leetcode/俩有序数组中第N大的数.md",
     "point cloud/point net++.md",
     "Leetcode",
@@ -244,10 +248,7 @@
     "大三上学期/OS/attachments/Pasted image 20240107171048.png",
     "大三上学期/OS/IO SYSTEM.md",
     "大三上学期/OS/Mass-Storage Structure.md",
-    "大三上学期/OS/attachments/Pasted image 20240107153437.png",
-    "大三上学期/OS/virtual memory.md",
     "大三上学期/OS/attachments",
-    "大三上学期/c++/attachments",
     "Untitled.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
