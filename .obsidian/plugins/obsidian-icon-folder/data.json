@@ -5,16 +5,16 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IbCloud",
+      "FasKitMedical",
+      "SiLeetcode",
       "FasManatSign",
       "SiGo",
       "SiOsano",
       "SiOsu",
       "SiRust",
       "SiHtml5",
-      "SiAirbnb",
-      "SiCplusplus",
-      "SiQt",
-      "FasNetworkWired"
+      "SiAirbnb"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -40,5 +40,8 @@
   "大二下学期/人工智能导论": "SiAirbnb",
   "大三上学期/OS": "SiOsano",
   "大三上学期/c++": "SiCplusplus",
-  "大三上学期/运维": "FasManatSign"
+  "大三上学期/运维": "FasManatSign",
+  "Leetcode": "SiLeetcode",
+  "bku": "FasKitMedical",
+  "point cloud": "IbCloud"
 }
