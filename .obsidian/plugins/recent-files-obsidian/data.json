@@ -5,16 +5,20 @@
       "path": "point cloud/point cnn.md"
     },
     {
+      "basename": "pointnet2",
+      "path": "point cloud/pointnet2.md"
+    },
+    {
+      "basename": "Pasted image 20240321164951",
+      "path": "point cloud/attachments/Pasted image 20240321164951.png"
+    },
+    {
       "basename": "问题大全",
       "path": "bku/问题大全.md"
     },
     {
       "basename": "俩有序数组中第N大的数",
       "path": "Leetcode/俩有序数组中第N大的数.md"
-    },
-    {
-      "basename": "point net++",
-      "path": "point cloud/point net++.md"
     },
     {
       "basename": "概论",
@@ -191,14 +195,6 @@
     {
       "basename": "7static和友元",
       "path": "大三上学期/c++/7static和友元.md"
-    },
-    {
-      "basename": "13项目采购管理",
-      "path": "大三上学期/运维/13项目采购管理.md"
-    },
-    {
-      "basename": "11项目沟通管理",
-      "path": "大三上学期/运维/11项目沟通管理.md"
     }
   ],
   "omittedPaths": [],
