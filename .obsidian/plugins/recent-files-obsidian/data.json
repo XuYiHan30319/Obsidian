@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "point cnn",
+      "path": "point cloud/point cnn.md"
+    },
+    {
       "basename": "问题大全",
       "path": "bku/问题大全.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "11项目沟通管理",
       "path": "大三上学期/运维/11项目沟通管理.md"
-    },
-    {
-      "basename": "10项目干系人管理",
-      "path": "大三上学期/运维/10项目干系人管理.md"
     }
   ],
   "omittedPaths": [],

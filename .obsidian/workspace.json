@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bku/问题大全.md",
+                "file": "point cloud/point cnn.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bku/问题大全.md"
+                "file": "point cloud/point cnn.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bku/问题大全.md",
+                "file": "point cloud/point cnn.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bku/问题大全.md",
+                "file": "point cloud/point cnn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,13 +203,16 @@
   },
   "active": "7f04b37be7b21d61",
   "lastOpenFiles": [
+    "point cloud/attachments/Pasted image 20240324094120.png",
+    "point cloud/attachments",
+    "bku/问题大全.md",
+    "point cloud/point cnn.md",
     "bku/attachments/Pasted image 20240322193101.png",
     "bku/attachments/Pasted image 20240322193055.png",
     "bku/attachments",
     "Leetcode/俩有序数组中第N大的数.md",
     "point cloud/point net++.md",
     "Leetcode",
-    "bku/问题大全.md",
     "point cloud",
     "大二下学期/编译原理/概论.md",
     "bku",
@@ -245,10 +248,7 @@
     "大三上学期/OS/介绍.md",
     "大三上学期/OS/attachments/Pasted image 20240107171136.png",
     "大三上学期/OS/attachments/Pasted image 20240107171114.png",
-    "大三上学期/OS/attachments/Pasted image 20240107171048.png",
     "大三上学期/OS/IO SYSTEM.md",
-    "大三上学期/OS/Mass-Storage Structure.md",
-    "大三上学期/OS/attachments",
     "Untitled.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
