@@ -41,7 +41,8 @@
   "大三上学期/OS": "SiOsano",
   "大三上学期/c++": "SiCplusplus",
   "大三上学期/运维": "FasManatSign",
+  "DeepLearning/bku": "FasKitMedical",
+  "DeepLearning": "SiAirbnb",
   "Leetcode": "SiLeetcode",
-  "bku": "FasKitMedical",
-  "point cloud": "IbCloud"
+  "DeepLearning/point cloud": "IbCloud"
 }

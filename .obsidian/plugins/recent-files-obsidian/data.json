@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "3D卷积",
+      "path": "DeepLearning/3D卷积.md"
+    },
+    {
       "basename": "point cnn",
-      "path": "point cloud/point cnn.md"
+      "path": "DeepLearning/point cloud/point cnn.md"
     },
     {
       "basename": "pointnet2",
-      "path": "point cloud/pointnet2.md"
+      "path": "DeepLearning/point cloud/pointnet2.md"
     },
     {
       "basename": "Pasted image 20240321164951",
-      "path": "point cloud/attachments/Pasted image 20240321164951.png"
+      "path": "DeepLearning/point cloud/attachments/Pasted image 20240321164951.png"
     },
     {
       "basename": "问题大全",
-      "path": "bku/问题大全.md"
+      "path": "DeepLearning/bku/问题大全.md"
     },
     {
       "basename": "俩有序数组中第N大的数",

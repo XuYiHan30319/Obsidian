@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "point cloud/point cnn.md",
+                "file": "DeepLearning/3D卷积.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "point cloud/point cnn.md"
+                "file": "DeepLearning/3D卷积.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "point cloud/point cnn.md",
+                "file": "DeepLearning/3D卷积.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "point cloud/point cnn.md",
+                "file": "DeepLearning/3D卷积.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,21 +203,23 @@
   },
   "active": "7f04b37be7b21d61",
   "lastOpenFiles": [
-    "point cloud/pointnet2.md",
+    "DeepLearning/point cloud/point cnn.md",
+    "DeepLearning/3D卷积.md",
+    "DeepLearning",
+    "DeepLearning/point cloud/pointnet2.md",
     "point cloud/point net++.md",
-    "point cloud/attachments/Pasted image 20240321164951.png",
-    "point cloud/point cnn.md",
-    "point cloud/attachments/Pasted image 20240324094120.png",
-    "point cloud/attachments",
-    "bku/问题大全.md",
-    "bku/attachments/Pasted image 20240322193101.png",
-    "bku/attachments/Pasted image 20240322193055.png",
-    "bku/attachments",
+    "DeepLearning/point cloud/attachments/Pasted image 20240321164951.png",
+    "DeepLearning/point cloud/attachments/Pasted image 20240324094120.png",
+    "DeepLearning/point cloud/attachments",
+    "DeepLearning/bku/问题大全.md",
+    "DeepLearning/bku/attachments/Pasted image 20240322193101.png",
+    "DeepLearning/bku/attachments/Pasted image 20240322193055.png",
+    "DeepLearning/bku/attachments",
     "Leetcode/俩有序数组中第N大的数.md",
     "Leetcode",
-    "point cloud",
+    "DeepLearning/point cloud",
     "大二下学期/编译原理/概论.md",
-    "bku",
+    "DeepLearning/bku",
     "Users/blackcat/Library/Application.md",
     "大三上学期/运维/4项目整合管理.md",
     "大三上学期/运维/2组织影响、组织过程资产和事业环境因素.md",
@@ -229,7 +231,6 @@
     "美赛/美赛.md",
     "大二下学期/人工智能导论/PaddlePaddle.md",
     "美赛",
-    "大三下学期",
     "大创2023/立项报告.md",
     "大二下学期/人工智能导论/神经网络.md",
     "大二下学期/人工智能导论/机器学习.md",
